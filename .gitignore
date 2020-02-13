@@ -1,0 +1,7 @@
+#Test Directories
+scans/
+output/
+
+#Test files
+readAllCT (1).m
+Untitled.m
