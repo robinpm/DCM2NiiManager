@@ -1,0 +1,1194 @@
+INFO:root:2020-02-20 Parent Directory is:
+X:\RESEARCH\CATE_SHARE\CATE_Public\UM-Data\AIM_MRI\
+INFO:root:2020-02-20 List of Files Found:
+['8-00461_8-00461_MR_2018-01-18_174143_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000', '8-00466_8-00466_MR_2018-04-24_144639_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n176__00000', '8-00468_8-00468_MR_2018-03-15_150818_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000', '8-00478_8-00478_MR_2018-07-19_101544_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000', '8-00484_8-00484_MR_2018-09-04_165146_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000', '8-00490_8-00490_MR_2018-08-21_194225_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000', '8-00491_8-00491_MR_2018-08-21_204507_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000', '8-00492_8-00492_MR_2018-08-21_170544_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000', '8-00493_8-00493_MR_2018-08-28_124727_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000', '9-00462_9-00462_MR_2018-01-18_153942_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000', '9-00464_9-00464_MR_2018-01-30_140142_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n160__00000', '9-00465_9-00465_MR_2018-03-27_142520_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000', '9-00467_9-00467_MR_2018-03-08_145843_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000', '9-00469_9-00469_MR_2018-11-05_134845_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000', '9-00470_9-00470_MR_2018-10-22_122103_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000', '9-00471_9-00471_MR_2018-03-20_142057_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000', '9-00473_9-00473_MR_2018-08-07_140551_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000', '9-00474_9-00474_MR_2018-06-19_141821_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000', '9-00477_9-00477_MR_2018-07-17_100033_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000', '9-00479_9-00479_MR_2018-10-11_104838_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000', '9-00480_9-00480_MR_2018-09-19_153208_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000', '9-00482_9-00482_MR_2018-05-02_180554_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000', '9-00483_9-00483_MR_2018-04-26_073544_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000', '9-00489_9-00489_MR_2018-08-15_115936_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000', '9-00496_9-00496_MR_2018-08-14_120732_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000', '9-00501_9-00501_MR_2018-09-05_160437_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000', '9-00510_9-00510_MR_2018-10-17_120410_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000', '9-00518_9-00518_MR_2018-10-25_095228_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000', '9-00531_9-00531_MR_2019-03-26_131725_Research^MR2015.01.DetectPAD_t1.mprage.sag.p2.iso.1mm_n192__00000', '9-00542_9-00542_MR_2019-08-05_105708_Research^MR2015.01.DetectPAD_t1.mprage.sag.p2.iso.1mm_n192__00000', '9-00569_9-00569_MR_2019-03-27_155611_Research^MR2015.01.DetectPAD_t1.mprage.sag.p2.iso.1mm_n192__00000', '9-00571_9-00571_MR_2019-02-12_132151_Research^MR2015.01.DetectPAD_t1.mprage.sag.p2.iso.1mm_n192__00000', '9-00601_9-00601_MR_2019-03-07_132817_Research^MR2015.01.DetectPAD_t1.mprage.sag.p2.iso.1mm_n192__00000', '9-00608_9-00608_MR_2019-04-25_134123_Research^MR2015.01.DetectPAD_t1.mprage.sag.p2.iso.1mm_n192__00000', '9-00631_9-00631_MR_2019-07-23_174544_Research^MR2015.01.DetectPAD_t1.mprage.sag.p2.iso.1mm_n192__00000', '9-00652_9-00652_MR_2019-08-27_132423_Research^MR2015.01.DetectPAD_t1.mprage.sag.p2.iso.1mm_n192__00000', '9-00669_9-00669_MR_2019-10-24_082338_Research^MR2019.03.AIM.Longitudenal.Study_t1.mprage.sag.p2.iso.1mm_n192__00000', '9-00678_9-00678_MR_2019-08-22_152336_Research^MR2015.01.DetectPAD_t1.mprage.sag.p2.iso.1mm_n192__00000', '9-00680_9-00680_MR_2019-09-13_151600_Research^MR2019.03.AIM.Longitudenal.Study_t1.mprage.sag.p2.iso.1mm_n192__00000', '9-00681_9-00681_MR_2019-09-13_162746_Research^MR2019.03.AIM.Longitudenal.Study_t1.mprage.sag.p2.iso.1mm_n192__00000', 'AIM-00502', 'AIM-00506', 'AIM-00507', 'AIM-00508', 'AIM-00509', 'AIM-00511', 'AIM-00512', 'AIM-00513', 'AIM-00514', 'AIM-00515', 'AIM-00524', 'AIM-00526', 'AIM-00528', 'AIM-00529', 'AIM-00530', 'AIM-00532', 'AIM-00533', 'AIM-00536', 'AIM-00538', 'AIM-00539', 'AIM-00540', 'AIM-00544', 'AIM-00545', 'AIM-00546', 'AIM-00548', 'AIM-00549', 'AIM-00550', 'AIM-00553', 'AIM-00561', 'AIM-00565', 'AIM-00573', 'AIM-00575', 'AIM-00577', 'AIM-00579', 'AIM-00581', 'AIM-00585', 'AIM-00587', 'AIM-00589', 'AIM-00593', 'AIM-00595', 'AIM-00603', 'AIM-00606', 'AIM-00609', 'AIM-00611', 'AIM-00612', 'AIM-00613', 'AIM-00632', 'AIM-00633', 'AIM-00635', 'AIM-00636', 'AIM-00637', 'AIM-00643', 'AIM-00645', 'AIM-00646', 'AIM-00647', 'AIM-00648', 'AIM-00649', 'AIM-00651', 'AIM-00654', 'AIM-00655', 'AIM-00656', 'AIM-00657', 'AIM-00660', 'AIM-00661', 'AIM-00662', 'AIM-00664', 'AIM-00665', 'AIM-00670', 'AIM-00675', 'AIM-00676', 'AIM-00683', 'AIM-00684', 'AIM-00686', 'AIM-00687', 'AIM-00689', 'AIM-00695', 'AIM-00697', 'AIM-00701', 'AIM-00704', 'AIM-00705', 'AIM-00714', 'AIM-00717', 'AIM-00724', 'AIM-00725', 'AIM-00726', 'AIM-00727', 'tempExport']
+INFO:root:2020-02-20 currently processing 8-00461_8-00461_MR_2018-01-18_174143_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+WARNING:root:2020-02-20 The folder name had an invalid character, changing name to:
+X:\RESEARCH\CATE_SHARE\CATE_Public\UM-Data\AIM_MRI\8-00461_8-00461_MR_2018-01-18_174143_Research^^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000\
+INFO:root:2020-02-20 Parent Directory is:
+X:\RESEARCH\CATE_SHARE\CATE_Public\UM-Data\AIM_MRI\
+INFO:root:2020-02-20 List of Files Found:
+['8-00461_8-00461_MR_2018-01-18_174143_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000', '8-00466_8-00466_MR_2018-04-24_144639_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n176__00000', '8-00468_8-00468_MR_2018-03-15_150818_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000', '8-00478_8-00478_MR_2018-07-19_101544_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000', '8-00484_8-00484_MR_2018-09-04_165146_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000', '8-00490_8-00490_MR_2018-08-21_194225_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000', '8-00491_8-00491_MR_2018-08-21_204507_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000', '8-00492_8-00492_MR_2018-08-21_170544_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000', '8-00493_8-00493_MR_2018-08-28_124727_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000', '9-00462_9-00462_MR_2018-01-18_153942_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000', '9-00464_9-00464_MR_2018-01-30_140142_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n160__00000', '9-00465_9-00465_MR_2018-03-27_142520_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000', '9-00467_9-00467_MR_2018-03-08_145843_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000', '9-00469_9-00469_MR_2018-11-05_134845_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000', '9-00470_9-00470_MR_2018-10-22_122103_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000', '9-00471_9-00471_MR_2018-03-20_142057_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000', '9-00473_9-00473_MR_2018-08-07_140551_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000', '9-00474_9-00474_MR_2018-06-19_141821_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000', '9-00477_9-00477_MR_2018-07-17_100033_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000', '9-00479_9-00479_MR_2018-10-11_104838_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000', '9-00480_9-00480_MR_2018-09-19_153208_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000', '9-00482_9-00482_MR_2018-05-02_180554_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000', '9-00483_9-00483_MR_2018-04-26_073544_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000', '9-00489_9-00489_MR_2018-08-15_115936_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000', '9-00496_9-00496_MR_2018-08-14_120732_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000', '9-00501_9-00501_MR_2018-09-05_160437_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000', '9-00510_9-00510_MR_2018-10-17_120410_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000', '9-00518_9-00518_MR_2018-10-25_095228_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000', '9-00531_9-00531_MR_2019-03-26_131725_Research^MR2015.01.DetectPAD_t1.mprage.sag.p2.iso.1mm_n192__00000', '9-00542_9-00542_MR_2019-08-05_105708_Research^MR2015.01.DetectPAD_t1.mprage.sag.p2.iso.1mm_n192__00000', '9-00569_9-00569_MR_2019-03-27_155611_Research^MR2015.01.DetectPAD_t1.mprage.sag.p2.iso.1mm_n192__00000', '9-00571_9-00571_MR_2019-02-12_132151_Research^MR2015.01.DetectPAD_t1.mprage.sag.p2.iso.1mm_n192__00000', '9-00601_9-00601_MR_2019-03-07_132817_Research^MR2015.01.DetectPAD_t1.mprage.sag.p2.iso.1mm_n192__00000', '9-00608_9-00608_MR_2019-04-25_134123_Research^MR2015.01.DetectPAD_t1.mprage.sag.p2.iso.1mm_n192__00000', '9-00631_9-00631_MR_2019-07-23_174544_Research^MR2015.01.DetectPAD_t1.mprage.sag.p2.iso.1mm_n192__00000', '9-00652_9-00652_MR_2019-08-27_132423_Research^MR2015.01.DetectPAD_t1.mprage.sag.p2.iso.1mm_n192__00000', '9-00669_9-00669_MR_2019-10-24_082338_Research^MR2019.03.AIM.Longitudenal.Study_t1.mprage.sag.p2.iso.1mm_n192__00000', '9-00678_9-00678_MR_2019-08-22_152336_Research^MR2015.01.DetectPAD_t1.mprage.sag.p2.iso.1mm_n192__00000', '9-00680_9-00680_MR_2019-09-13_151600_Research^MR2019.03.AIM.Longitudenal.Study_t1.mprage.sag.p2.iso.1mm_n192__00000', '9-00681_9-00681_MR_2019-09-13_162746_Research^MR2019.03.AIM.Longitudenal.Study_t1.mprage.sag.p2.iso.1mm_n192__00000', 'AIM-00502', 'AIM-00506', 'AIM-00507', 'AIM-00508', 'AIM-00509', 'AIM-00511', 'AIM-00512', 'AIM-00513', 'AIM-00514', 'AIM-00515', 'AIM-00524', 'AIM-00526', 'AIM-00528', 'AIM-00529', 'AIM-00530', 'AIM-00532', 'AIM-00533', 'AIM-00536', 'AIM-00538', 'AIM-00539', 'AIM-00540', 'AIM-00544', 'AIM-00545', 'AIM-00546', 'AIM-00548', 'AIM-00549', 'AIM-00550', 'AIM-00553', 'AIM-00561', 'AIM-00565', 'AIM-00573', 'AIM-00575', 'AIM-00577', 'AIM-00579', 'AIM-00581', 'AIM-00585', 'AIM-00587', 'AIM-00589', 'AIM-00593', 'AIM-00595', 'AIM-00603', 'AIM-00606', 'AIM-00609', 'AIM-00611', 'AIM-00612', 'AIM-00613', 'AIM-00632', 'AIM-00633', 'AIM-00635', 'AIM-00636', 'AIM-00637', 'AIM-00643', 'AIM-00645', 'AIM-00646', 'AIM-00647', 'AIM-00648', 'AIM-00649', 'AIM-00651', 'AIM-00654', 'AIM-00655', 'AIM-00656', 'AIM-00657', 'AIM-00660', 'AIM-00661', 'AIM-00662', 'AIM-00664', 'AIM-00665', 'AIM-00670', 'AIM-00675', 'AIM-00676', 'AIM-00683', 'AIM-00684', 'AIM-00686', 'AIM-00687', 'AIM-00689', 'AIM-00695', 'AIM-00697', 'AIM-00701', 'AIM-00704', 'AIM-00705', 'AIM-00714', 'AIM-00717', 'AIM-00724', 'AIM-00725', 'AIM-00726', 'AIM-00727', 'tempExport']
+INFO:root:2020-02-20 currently processing 8-00461_8-00461_MR_2018-01-18_174143_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+WARNING:root:2020-02-20 The folder name had an invalid character, changing name to:
+X:\RESEARCH\CATE_SHARE\CATE_Public\UM-Data\AIM_MRI\8-00461_8-00461_MR_2018-01-18_174143_Research^^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000\
+WARNING:root:2020-02-20 Folder Temp already exists for 8-00461_8-00461_MR_2018-01-18_174143_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+INFO:root:2020-02-20 currently processing 8-00466_8-00466_MR_2018-04-24_144639_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n176__00000
+WARNING:root:2020-02-20 The folder name had an invalid character, changing name to:
+X:\RESEARCH\CATE_SHARE\CATE_Public\UM-Data\AIM_MRI\8-00466_8-00466_MR_2018-04-24_144639_Research^^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n176__00000\
+WARNING:root:2020-02-20 Folder Temp already exists for 8-00466_8-00466_MR_2018-04-24_144639_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n176__00000
+INFO:root:2020-02-20 currently processing 8-00468_8-00468_MR_2018-03-15_150818_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+WARNING:root:2020-02-20 The folder name had an invalid character, changing name to:
+X:\RESEARCH\CATE_SHARE\CATE_Public\UM-Data\AIM_MRI\8-00468_8-00468_MR_2018-03-15_150818_Research^^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000\
+WARNING:root:2020-02-20 Folder Temp already exists for 8-00468_8-00468_MR_2018-03-15_150818_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+INFO:root:2020-02-20 currently processing 8-00478_8-00478_MR_2018-07-19_101544_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+WARNING:root:2020-02-20 The folder name had an invalid character, changing name to:
+X:\RESEARCH\CATE_SHARE\CATE_Public\UM-Data\AIM_MRI\8-00478_8-00478_MR_2018-07-19_101544_Research^^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000\
+WARNING:root:2020-02-20 Folder Temp already exists for 8-00478_8-00478_MR_2018-07-19_101544_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+INFO:root:2020-02-20 currently processing 8-00484_8-00484_MR_2018-09-04_165146_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+WARNING:root:2020-02-20 The folder name had an invalid character, changing name to:
+X:\RESEARCH\CATE_SHARE\CATE_Public\UM-Data\AIM_MRI\8-00484_8-00484_MR_2018-09-04_165146_Research^^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000\
+WARNING:root:2020-02-20 Folder Temp already exists for 8-00484_8-00484_MR_2018-09-04_165146_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+INFO:root:2020-02-20 currently processing 8-00490_8-00490_MR_2018-08-21_194225_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+WARNING:root:2020-02-20 The folder name had an invalid character, changing name to:
+X:\RESEARCH\CATE_SHARE\CATE_Public\UM-Data\AIM_MRI\8-00490_8-00490_MR_2018-08-21_194225_Research^^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000\
+WARNING:root:2020-02-20 Folder Temp already exists for 8-00490_8-00490_MR_2018-08-21_194225_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+INFO:root:2020-02-20 currently processing 8-00491_8-00491_MR_2018-08-21_204507_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+WARNING:root:2020-02-20 The folder name had an invalid character, changing name to:
+X:\RESEARCH\CATE_SHARE\CATE_Public\UM-Data\AIM_MRI\8-00491_8-00491_MR_2018-08-21_204507_Research^^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000\
+WARNING:root:2020-02-20 Folder Temp already exists for 8-00491_8-00491_MR_2018-08-21_204507_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+INFO:root:2020-02-20 currently processing 8-00492_8-00492_MR_2018-08-21_170544_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+WARNING:root:2020-02-20 The folder name had an invalid character, changing name to:
+X:\RESEARCH\CATE_SHARE\CATE_Public\UM-Data\AIM_MRI\8-00492_8-00492_MR_2018-08-21_170544_Research^^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000\
+WARNING:root:2020-02-20 Folder Temp already exists for 8-00492_8-00492_MR_2018-08-21_170544_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+INFO:root:2020-02-20 currently processing 8-00493_8-00493_MR_2018-08-28_124727_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+WARNING:root:2020-02-20 The folder name had an invalid character, changing name to:
+X:\RESEARCH\CATE_SHARE\CATE_Public\UM-Data\AIM_MRI\8-00493_8-00493_MR_2018-08-28_124727_Research^^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000\
+WARNING:root:2020-02-20 Folder Temp already exists for 8-00493_8-00493_MR_2018-08-28_124727_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+INFO:root:2020-02-20 currently processing 9-00462_9-00462_MR_2018-01-18_153942_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+WARNING:root:2020-02-20 The folder name had an invalid character, changing name to:
+X:\RESEARCH\CATE_SHARE\CATE_Public\UM-Data\AIM_MRI\9-00462_9-00462_MR_2018-01-18_153942_Research^^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000\
+WARNING:root:2020-02-20 Folder Temp already exists for 9-00462_9-00462_MR_2018-01-18_153942_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+INFO:root:2020-02-20 currently processing 9-00464_9-00464_MR_2018-01-30_140142_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n160__00000
+WARNING:root:2020-02-20 The folder name had an invalid character, changing name to:
+X:\RESEARCH\CATE_SHARE\CATE_Public\UM-Data\AIM_MRI\9-00464_9-00464_MR_2018-01-30_140142_Research^^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n160__00000\
+WARNING:root:2020-02-20 Folder Temp already exists for 9-00464_9-00464_MR_2018-01-30_140142_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n160__00000
+INFO:root:2020-02-20 currently processing 9-00465_9-00465_MR_2018-03-27_142520_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+WARNING:root:2020-02-20 The folder name had an invalid character, changing name to:
+X:\RESEARCH\CATE_SHARE\CATE_Public\UM-Data\AIM_MRI\9-00465_9-00465_MR_2018-03-27_142520_Research^^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000\
+WARNING:root:2020-02-20 Folder Temp already exists for 9-00465_9-00465_MR_2018-03-27_142520_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+INFO:root:2020-02-20 currently processing 9-00467_9-00467_MR_2018-03-08_145843_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+WARNING:root:2020-02-20 The folder name had an invalid character, changing name to:
+X:\RESEARCH\CATE_SHARE\CATE_Public\UM-Data\AIM_MRI\9-00467_9-00467_MR_2018-03-08_145843_Research^^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000\
+WARNING:root:2020-02-20 Folder Temp already exists for 9-00467_9-00467_MR_2018-03-08_145843_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+INFO:root:2020-02-20 currently processing 9-00469_9-00469_MR_2018-11-05_134845_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+WARNING:root:2020-02-20 The folder name had an invalid character, changing name to:
+X:\RESEARCH\CATE_SHARE\CATE_Public\UM-Data\AIM_MRI\9-00469_9-00469_MR_2018-11-05_134845_Research^^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000\
+WARNING:root:2020-02-20 Folder Temp already exists for 9-00469_9-00469_MR_2018-11-05_134845_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+INFO:root:2020-02-20 currently processing 9-00470_9-00470_MR_2018-10-22_122103_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+WARNING:root:2020-02-20 The folder name had an invalid character, changing name to:
+X:\RESEARCH\CATE_SHARE\CATE_Public\UM-Data\AIM_MRI\9-00470_9-00470_MR_2018-10-22_122103_Research^^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000\
+WARNING:root:2020-02-20 Folder Temp already exists for 9-00470_9-00470_MR_2018-10-22_122103_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+INFO:root:2020-02-20 currently processing 9-00471_9-00471_MR_2018-03-20_142057_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+WARNING:root:2020-02-20 The folder name had an invalid character, changing name to:
+X:\RESEARCH\CATE_SHARE\CATE_Public\UM-Data\AIM_MRI\9-00471_9-00471_MR_2018-03-20_142057_Research^^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000\
+WARNING:root:2020-02-20 Folder Temp already exists for 9-00471_9-00471_MR_2018-03-20_142057_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+INFO:root:2020-02-20 currently processing 9-00473_9-00473_MR_2018-08-07_140551_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+WARNING:root:2020-02-20 The folder name had an invalid character, changing name to:
+X:\RESEARCH\CATE_SHARE\CATE_Public\UM-Data\AIM_MRI\9-00473_9-00473_MR_2018-08-07_140551_Research^^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000\
+WARNING:root:2020-02-20 Folder Temp already exists for 9-00473_9-00473_MR_2018-08-07_140551_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+INFO:root:2020-02-20 currently processing 9-00474_9-00474_MR_2018-06-19_141821_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+WARNING:root:2020-02-20 The folder name had an invalid character, changing name to:
+X:\RESEARCH\CATE_SHARE\CATE_Public\UM-Data\AIM_MRI\9-00474_9-00474_MR_2018-06-19_141821_Research^^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000\
+WARNING:root:2020-02-20 Folder Temp already exists for 9-00474_9-00474_MR_2018-06-19_141821_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+INFO:root:2020-02-20 currently processing 9-00477_9-00477_MR_2018-07-17_100033_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+WARNING:root:2020-02-20 The folder name had an invalid character, changing name to:
+X:\RESEARCH\CATE_SHARE\CATE_Public\UM-Data\AIM_MRI\9-00477_9-00477_MR_2018-07-17_100033_Research^^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000\
+WARNING:root:2020-02-20 Folder Temp already exists for 9-00477_9-00477_MR_2018-07-17_100033_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+INFO:root:2020-02-20 currently processing 9-00479_9-00479_MR_2018-10-11_104838_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+WARNING:root:2020-02-20 The folder name had an invalid character, changing name to:
+X:\RESEARCH\CATE_SHARE\CATE_Public\UM-Data\AIM_MRI\9-00479_9-00479_MR_2018-10-11_104838_Research^^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000\
+WARNING:root:2020-02-20 Folder Temp already exists for 9-00479_9-00479_MR_2018-10-11_104838_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+INFO:root:2020-02-20 currently processing 9-00480_9-00480_MR_2018-09-19_153208_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+WARNING:root:2020-02-20 The folder name had an invalid character, changing name to:
+X:\RESEARCH\CATE_SHARE\CATE_Public\UM-Data\AIM_MRI\9-00480_9-00480_MR_2018-09-19_153208_Research^^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000\
+WARNING:root:2020-02-20 Folder Temp already exists for 9-00480_9-00480_MR_2018-09-19_153208_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+INFO:root:2020-02-20 currently processing 9-00482_9-00482_MR_2018-05-02_180554_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+WARNING:root:2020-02-20 The folder name had an invalid character, changing name to:
+X:\RESEARCH\CATE_SHARE\CATE_Public\UM-Data\AIM_MRI\9-00482_9-00482_MR_2018-05-02_180554_Research^^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000\
+WARNING:root:2020-02-20 Folder Temp already exists for 9-00482_9-00482_MR_2018-05-02_180554_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+INFO:root:2020-02-20 currently processing 9-00483_9-00483_MR_2018-04-26_073544_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+WARNING:root:2020-02-20 The folder name had an invalid character, changing name to:
+X:\RESEARCH\CATE_SHARE\CATE_Public\UM-Data\AIM_MRI\9-00483_9-00483_MR_2018-04-26_073544_Research^^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000\
+WARNING:root:2020-02-20 Folder Temp already exists for 9-00483_9-00483_MR_2018-04-26_073544_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+INFO:root:2020-02-20 currently processing 9-00489_9-00489_MR_2018-08-15_115936_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+WARNING:root:2020-02-20 The folder name had an invalid character, changing name to:
+X:\RESEARCH\CATE_SHARE\CATE_Public\UM-Data\AIM_MRI\9-00489_9-00489_MR_2018-08-15_115936_Research^^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000\
+WARNING:root:2020-02-20 Folder Temp already exists for 9-00489_9-00489_MR_2018-08-15_115936_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+INFO:root:2020-02-20 currently processing 9-00496_9-00496_MR_2018-08-14_120732_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+WARNING:root:2020-02-20 The folder name had an invalid character, changing name to:
+X:\RESEARCH\CATE_SHARE\CATE_Public\UM-Data\AIM_MRI\9-00496_9-00496_MR_2018-08-14_120732_Research^^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000\
+WARNING:root:2020-02-20 Folder Temp already exists for 9-00496_9-00496_MR_2018-08-14_120732_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+INFO:root:2020-02-20 currently processing 9-00501_9-00501_MR_2018-09-05_160437_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+WARNING:root:2020-02-20 The folder name had an invalid character, changing name to:
+X:\RESEARCH\CATE_SHARE\CATE_Public\UM-Data\AIM_MRI\9-00501_9-00501_MR_2018-09-05_160437_Research^^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000\
+WARNING:root:2020-02-20 Folder Temp already exists for 9-00501_9-00501_MR_2018-09-05_160437_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+INFO:root:2020-02-20 currently processing 9-00510_9-00510_MR_2018-10-17_120410_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+WARNING:root:2020-02-20 The folder name had an invalid character, changing name to:
+X:\RESEARCH\CATE_SHARE\CATE_Public\UM-Data\AIM_MRI\9-00510_9-00510_MR_2018-10-17_120410_Research^^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000\
+WARNING:root:2020-02-20 Folder Temp already exists for 9-00510_9-00510_MR_2018-10-17_120410_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+INFO:root:2020-02-20 currently processing 9-00518_9-00518_MR_2018-10-25_095228_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+WARNING:root:2020-02-20 The folder name had an invalid character, changing name to:
+X:\RESEARCH\CATE_SHARE\CATE_Public\UM-Data\AIM_MRI\9-00518_9-00518_MR_2018-10-25_095228_Research^^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000\
+WARNING:root:2020-02-20 Folder Temp already exists for 9-00518_9-00518_MR_2018-10-25_095228_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+INFO:root:2020-02-20 currently processing 9-00531_9-00531_MR_2019-03-26_131725_Research^MR2015.01.DetectPAD_t1.mprage.sag.p2.iso.1mm_n192__00000
+WARNING:root:2020-02-20 The folder name had an invalid character, changing name to:
+X:\RESEARCH\CATE_SHARE\CATE_Public\UM-Data\AIM_MRI\9-00531_9-00531_MR_2019-03-26_131725_Research^^MR2015.01.DetectPAD_t1.mprage.sag.p2.iso.1mm_n192__00000\
+WARNING:root:2020-02-20 Folder Temp already exists for 9-00531_9-00531_MR_2019-03-26_131725_Research^MR2015.01.DetectPAD_t1.mprage.sag.p2.iso.1mm_n192__00000
+INFO:root:2020-02-20 currently processing 9-00542_9-00542_MR_2019-08-05_105708_Research^MR2015.01.DetectPAD_t1.mprage.sag.p2.iso.1mm_n192__00000
+WARNING:root:2020-02-20 The folder name had an invalid character, changing name to:
+X:\RESEARCH\CATE_SHARE\CATE_Public\UM-Data\AIM_MRI\9-00542_9-00542_MR_2019-08-05_105708_Research^^MR2015.01.DetectPAD_t1.mprage.sag.p2.iso.1mm_n192__00000\
+WARNING:root:2020-02-20 Folder Temp already exists for 9-00542_9-00542_MR_2019-08-05_105708_Research^MR2015.01.DetectPAD_t1.mprage.sag.p2.iso.1mm_n192__00000
+INFO:root:2020-02-20 currently processing 9-00569_9-00569_MR_2019-03-27_155611_Research^MR2015.01.DetectPAD_t1.mprage.sag.p2.iso.1mm_n192__00000
+WARNING:root:2020-02-20 The folder name had an invalid character, changing name to:
+X:\RESEARCH\CATE_SHARE\CATE_Public\UM-Data\AIM_MRI\9-00569_9-00569_MR_2019-03-27_155611_Research^^MR2015.01.DetectPAD_t1.mprage.sag.p2.iso.1mm_n192__00000\
+WARNING:root:2020-02-20 Folder Temp already exists for 9-00569_9-00569_MR_2019-03-27_155611_Research^MR2015.01.DetectPAD_t1.mprage.sag.p2.iso.1mm_n192__00000
+INFO:root:2020-02-20 currently processing 9-00571_9-00571_MR_2019-02-12_132151_Research^MR2015.01.DetectPAD_t1.mprage.sag.p2.iso.1mm_n192__00000
+WARNING:root:2020-02-20 The folder name had an invalid character, changing name to:
+X:\RESEARCH\CATE_SHARE\CATE_Public\UM-Data\AIM_MRI\9-00571_9-00571_MR_2019-02-12_132151_Research^^MR2015.01.DetectPAD_t1.mprage.sag.p2.iso.1mm_n192__00000\
+WARNING:root:2020-02-20 Folder Temp already exists for 9-00571_9-00571_MR_2019-02-12_132151_Research^MR2015.01.DetectPAD_t1.mprage.sag.p2.iso.1mm_n192__00000
+INFO:root:2020-02-20 currently processing 9-00601_9-00601_MR_2019-03-07_132817_Research^MR2015.01.DetectPAD_t1.mprage.sag.p2.iso.1mm_n192__00000
+WARNING:root:2020-02-20 The folder name had an invalid character, changing name to:
+X:\RESEARCH\CATE_SHARE\CATE_Public\UM-Data\AIM_MRI\9-00601_9-00601_MR_2019-03-07_132817_Research^^MR2015.01.DetectPAD_t1.mprage.sag.p2.iso.1mm_n192__00000\
+WARNING:root:2020-02-20 Folder Temp already exists for 9-00601_9-00601_MR_2019-03-07_132817_Research^MR2015.01.DetectPAD_t1.mprage.sag.p2.iso.1mm_n192__00000
+INFO:root:2020-02-20 currently processing 9-00608_9-00608_MR_2019-04-25_134123_Research^MR2015.01.DetectPAD_t1.mprage.sag.p2.iso.1mm_n192__00000
+WARNING:root:2020-02-20 The folder name had an invalid character, changing name to:
+X:\RESEARCH\CATE_SHARE\CATE_Public\UM-Data\AIM_MRI\9-00608_9-00608_MR_2019-04-25_134123_Research^^MR2015.01.DetectPAD_t1.mprage.sag.p2.iso.1mm_n192__00000\
+WARNING:root:2020-02-20 Folder Temp already exists for 9-00608_9-00608_MR_2019-04-25_134123_Research^MR2015.01.DetectPAD_t1.mprage.sag.p2.iso.1mm_n192__00000
+INFO:root:2020-02-20 currently processing 9-00631_9-00631_MR_2019-07-23_174544_Research^MR2015.01.DetectPAD_t1.mprage.sag.p2.iso.1mm_n192__00000
+WARNING:root:2020-02-20 The folder name had an invalid character, changing name to:
+X:\RESEARCH\CATE_SHARE\CATE_Public\UM-Data\AIM_MRI\9-00631_9-00631_MR_2019-07-23_174544_Research^^MR2015.01.DetectPAD_t1.mprage.sag.p2.iso.1mm_n192__00000\
+WARNING:root:2020-02-20 Folder Temp already exists for 9-00631_9-00631_MR_2019-07-23_174544_Research^MR2015.01.DetectPAD_t1.mprage.sag.p2.iso.1mm_n192__00000
+INFO:root:2020-02-20 currently processing 9-00652_9-00652_MR_2019-08-27_132423_Research^MR2015.01.DetectPAD_t1.mprage.sag.p2.iso.1mm_n192__00000
+WARNING:root:2020-02-20 The folder name had an invalid character, changing name to:
+X:\RESEARCH\CATE_SHARE\CATE_Public\UM-Data\AIM_MRI\9-00652_9-00652_MR_2019-08-27_132423_Research^^MR2015.01.DetectPAD_t1.mprage.sag.p2.iso.1mm_n192__00000\
+WARNING:root:2020-02-20 Folder Temp already exists for 9-00652_9-00652_MR_2019-08-27_132423_Research^MR2015.01.DetectPAD_t1.mprage.sag.p2.iso.1mm_n192__00000
+INFO:root:2020-02-20 currently processing 9-00669_9-00669_MR_2019-10-24_082338_Research^MR2019.03.AIM.Longitudenal.Study_t1.mprage.sag.p2.iso.1mm_n192__00000
+WARNING:root:2020-02-20 The folder name had an invalid character, changing name to:
+X:\RESEARCH\CATE_SHARE\CATE_Public\UM-Data\AIM_MRI\9-00669_9-00669_MR_2019-10-24_082338_Research^^MR2019.03.AIM.Longitudenal.Study_t1.mprage.sag.p2.iso.1mm_n192__00000\
+WARNING:root:2020-02-20 Folder Temp already exists for 9-00669_9-00669_MR_2019-10-24_082338_Research^MR2019.03.AIM.Longitudenal.Study_t1.mprage.sag.p2.iso.1mm_n192__00000
+INFO:root:2020-02-20 currently processing 9-00678_9-00678_MR_2019-08-22_152336_Research^MR2015.01.DetectPAD_t1.mprage.sag.p2.iso.1mm_n192__00000
+WARNING:root:2020-02-20 The folder name had an invalid character, changing name to:
+X:\RESEARCH\CATE_SHARE\CATE_Public\UM-Data\AIM_MRI\9-00678_9-00678_MR_2019-08-22_152336_Research^^MR2015.01.DetectPAD_t1.mprage.sag.p2.iso.1mm_n192__00000\
+WARNING:root:2020-02-20 Folder Temp already exists for 9-00678_9-00678_MR_2019-08-22_152336_Research^MR2015.01.DetectPAD_t1.mprage.sag.p2.iso.1mm_n192__00000
+INFO:root:2020-02-20 currently processing 9-00680_9-00680_MR_2019-09-13_151600_Research^MR2019.03.AIM.Longitudenal.Study_t1.mprage.sag.p2.iso.1mm_n192__00000
+WARNING:root:2020-02-20 The folder name had an invalid character, changing name to:
+X:\RESEARCH\CATE_SHARE\CATE_Public\UM-Data\AIM_MRI\9-00680_9-00680_MR_2019-09-13_151600_Research^^MR2019.03.AIM.Longitudenal.Study_t1.mprage.sag.p2.iso.1mm_n192__00000\
+WARNING:root:2020-02-20 Folder Temp already exists for 9-00680_9-00680_MR_2019-09-13_151600_Research^MR2019.03.AIM.Longitudenal.Study_t1.mprage.sag.p2.iso.1mm_n192__00000
+INFO:root:2020-02-20 currently processing 9-00681_9-00681_MR_2019-09-13_162746_Research^MR2019.03.AIM.Longitudenal.Study_t1.mprage.sag.p2.iso.1mm_n192__00000
+WARNING:root:2020-02-20 The folder name had an invalid character, changing name to:
+X:\RESEARCH\CATE_SHARE\CATE_Public\UM-Data\AIM_MRI\9-00681_9-00681_MR_2019-09-13_162746_Research^^MR2019.03.AIM.Longitudenal.Study_t1.mprage.sag.p2.iso.1mm_n192__00000\
+WARNING:root:2020-02-20 Folder Temp already exists for 9-00681_9-00681_MR_2019-09-13_162746_Research^MR2019.03.AIM.Longitudenal.Study_t1.mprage.sag.p2.iso.1mm_n192__00000
+INFO:root:2020-02-20 currently processing AIM-00502
+WARNING:root:2020-02-20 Folder Temp already exists for AIM-00502
+INFO:root:2020-02-20 currently processing AIM-00506
+WARNING:root:2020-02-20 Folder Temp already exists for AIM-00506
+INFO:root:2020-02-20 currently processing AIM-00507
+WARNING:root:2020-02-20 Folder Temp already exists for AIM-00507
+INFO:root:2020-02-20 currently processing AIM-00508
+WARNING:root:2020-02-20 Folder Temp already exists for AIM-00508
+INFO:root:2020-02-20 currently processing AIM-00509
+WARNING:root:2020-02-20 Folder Temp already exists for AIM-00509
+INFO:root:2020-02-20 currently processing AIM-00511
+WARNING:root:2020-02-20 Folder Temp already exists for AIM-00511
+INFO:root:2020-02-20 currently processing AIM-00512
+WARNING:root:2020-02-20 Folder Temp already exists for AIM-00512
+INFO:root:2020-02-20 currently processing AIM-00513
+WARNING:root:2020-02-20 Folder Temp already exists for AIM-00513
+INFO:root:2020-02-20 currently processing AIM-00514
+WARNING:root:2020-02-20 Folder Temp already exists for AIM-00514
+INFO:root:2020-02-20 currently processing AIM-00515
+WARNING:root:2020-02-20 Folder Temp already exists for AIM-00515
+INFO:root:2020-02-20 currently processing AIM-00524
+WARNING:root:2020-02-20 Folder Temp already exists for AIM-00524
+INFO:root:2020-02-20 currently processing AIM-00526
+WARNING:root:2020-02-20 Folder Temp already exists for AIM-00526
+INFO:root:2020-02-20 currently processing AIM-00528
+WARNING:root:2020-02-20 Folder Temp already exists for AIM-00528
+INFO:root:2020-02-20 currently processing AIM-00529
+WARNING:root:2020-02-20 Folder Temp already exists for AIM-00529
+INFO:root:2020-02-20 currently processing AIM-00530
+WARNING:root:2020-02-20 Folder Temp already exists for AIM-00530
+INFO:root:2020-02-20 currently processing AIM-00532
+WARNING:root:2020-02-20 Folder Temp already exists for AIM-00532
+INFO:root:2020-02-20 currently processing AIM-00533
+WARNING:root:2020-02-20 Folder Temp already exists for AIM-00533
+INFO:root:2020-02-20 currently processing AIM-00536
+WARNING:root:2020-02-20 Folder Temp already exists for AIM-00536
+INFO:root:2020-02-20 currently processing AIM-00538
+WARNING:root:2020-02-20 Folder Temp already exists for AIM-00538
+INFO:root:2020-02-20 currently processing AIM-00539
+WARNING:root:2020-02-20 Folder Temp already exists for AIM-00539
+INFO:root:2020-02-20 currently processing AIM-00540
+WARNING:root:2020-02-20 Folder Temp already exists for AIM-00540
+INFO:root:2020-02-20 currently processing AIM-00544
+WARNING:root:2020-02-20 Folder Temp already exists for AIM-00544
+INFO:root:2020-02-20 currently processing AIM-00545
+WARNING:root:2020-02-20 Folder Temp already exists for AIM-00545
+INFO:root:2020-02-20 currently processing AIM-00546
+WARNING:root:2020-02-20 Folder Temp already exists for AIM-00546
+INFO:root:2020-02-20 currently processing AIM-00548
+WARNING:root:2020-02-20 Folder Temp already exists for AIM-00548
+INFO:root:2020-02-20 currently processing AIM-00549
+WARNING:root:2020-02-20 Folder Temp already exists for AIM-00549
+INFO:root:2020-02-20 currently processing AIM-00550
+WARNING:root:2020-02-20 Folder Temp already exists for AIM-00550
+INFO:root:2020-02-20 currently processing AIM-00553
+WARNING:root:2020-02-20 Folder Temp already exists for AIM-00553
+INFO:root:2020-02-20 currently processing AIM-00561
+WARNING:root:2020-02-20 Folder Temp already exists for AIM-00561
+INFO:root:2020-02-20 currently processing AIM-00565
+WARNING:root:2020-02-20 Folder Temp already exists for AIM-00565
+INFO:root:2020-02-20 currently processing AIM-00573
+WARNING:root:2020-02-20 Folder Temp already exists for AIM-00573
+INFO:root:2020-02-20 currently processing AIM-00575
+WARNING:root:2020-02-20 Folder Temp already exists for AIM-00575
+INFO:root:2020-02-20 currently processing AIM-00577
+WARNING:root:2020-02-20 Folder Temp already exists for AIM-00577
+INFO:root:2020-02-20 currently processing AIM-00579
+WARNING:root:2020-02-20 Folder Temp already exists for AIM-00579
+INFO:root:2020-02-20 currently processing AIM-00581
+WARNING:root:2020-02-20 Folder Temp already exists for AIM-00581
+INFO:root:2020-02-20 currently processing AIM-00585
+WARNING:root:2020-02-20 Folder Temp already exists for AIM-00585
+INFO:root:2020-02-20 currently processing AIM-00587
+WARNING:root:2020-02-20 Folder Temp already exists for AIM-00587
+INFO:root:2020-02-20 currently processing AIM-00589
+WARNING:root:2020-02-20 Folder Temp already exists for AIM-00589
+INFO:root:2020-02-20 currently processing AIM-00593
+WARNING:root:2020-02-20 Folder Temp already exists for AIM-00593
+INFO:root:2020-02-20 currently processing AIM-00595
+WARNING:root:2020-02-20 Folder Temp already exists for AIM-00595
+INFO:root:2020-02-20 currently processing AIM-00603
+WARNING:root:2020-02-20 Folder Temp already exists for AIM-00603
+INFO:root:2020-02-20 currently processing AIM-00606
+WARNING:root:2020-02-20 Folder Temp already exists for AIM-00606
+INFO:root:2020-02-20 currently processing AIM-00609
+WARNING:root:2020-02-20 Folder Temp already exists for AIM-00609
+INFO:root:2020-02-20 currently processing AIM-00611
+WARNING:root:2020-02-20 Folder Temp already exists for AIM-00611
+INFO:root:2020-02-20 currently processing AIM-00612
+WARNING:root:2020-02-20 Folder Temp already exists for AIM-00612
+INFO:root:2020-02-20 currently processing AIM-00613
+WARNING:root:2020-02-20 Folder Temp already exists for AIM-00613
+INFO:root:2020-02-20 currently processing AIM-00632
+WARNING:root:2020-02-20 Folder Temp already exists for AIM-00632
+INFO:root:2020-02-20 currently processing AIM-00633
+WARNING:root:2020-02-20 Folder Temp already exists for AIM-00633
+INFO:root:2020-02-20 currently processing AIM-00635
+WARNING:root:2020-02-20 Folder Temp already exists for AIM-00635
+INFO:root:2020-02-20 currently processing AIM-00636
+WARNING:root:2020-02-20 Folder Temp already exists for AIM-00636
+INFO:root:2020-02-20 currently processing AIM-00637
+WARNING:root:2020-02-20 Folder Temp already exists for AIM-00637
+INFO:root:2020-02-20 currently processing AIM-00643
+WARNING:root:2020-02-20 Folder Temp already exists for AIM-00643
+INFO:root:2020-02-20 currently processing AIM-00645
+WARNING:root:2020-02-20 Folder Temp already exists for AIM-00645
+INFO:root:2020-02-20 currently processing AIM-00646
+WARNING:root:2020-02-20 Folder Temp already exists for AIM-00646
+INFO:root:2020-02-20 currently processing AIM-00647
+WARNING:root:2020-02-20 Folder Temp already exists for AIM-00647
+INFO:root:2020-02-20 currently processing AIM-00648
+WARNING:root:2020-02-20 Folder Temp already exists for AIM-00648
+INFO:root:2020-02-20 currently processing AIM-00649
+WARNING:root:2020-02-20 Folder Temp already exists for AIM-00649
+INFO:root:2020-02-20 currently processing AIM-00651
+WARNING:root:2020-02-20 Folder Temp already exists for AIM-00651
+INFO:root:2020-02-20 currently processing AIM-00654
+WARNING:root:2020-02-20 Folder Temp already exists for AIM-00654
+INFO:root:2020-02-20 currently processing AIM-00655
+WARNING:root:2020-02-20 Folder Temp already exists for AIM-00655
+INFO:root:2020-02-20 currently processing AIM-00656
+WARNING:root:2020-02-20 Folder Temp already exists for AIM-00656
+INFO:root:2020-02-20 currently processing AIM-00657
+WARNING:root:2020-02-20 Folder Temp already exists for AIM-00657
+INFO:root:2020-02-20 currently processing AIM-00660
+WARNING:root:2020-02-20 Folder Temp already exists for AIM-00660
+INFO:root:2020-02-20 currently processing AIM-00661
+WARNING:root:2020-02-20 Folder Temp already exists for AIM-00661
+INFO:root:2020-02-20 currently processing AIM-00662
+WARNING:root:2020-02-20 Folder Temp already exists for AIM-00662
+INFO:root:2020-02-20 currently processing AIM-00664
+WARNING:root:2020-02-20 Folder Temp already exists for AIM-00664
+INFO:root:2020-02-20 currently processing AIM-00665
+WARNING:root:2020-02-20 Folder Temp already exists for AIM-00665
+INFO:root:2020-02-20 currently processing AIM-00670
+WARNING:root:2020-02-20 Folder Temp already exists for AIM-00670
+INFO:root:2020-02-20 currently processing AIM-00675
+WARNING:root:2020-02-20 Folder Temp already exists for AIM-00675
+INFO:root:2020-02-20 currently processing AIM-00676
+WARNING:root:2020-02-20 Folder Temp already exists for AIM-00676
+INFO:root:2020-02-20 currently processing AIM-00683
+WARNING:root:2020-02-20 Folder Temp already exists for AIM-00683
+INFO:root:2020-02-20 currently processing AIM-00684
+WARNING:root:2020-02-20 Folder Temp already exists for AIM-00684
+INFO:root:2020-02-20 currently processing AIM-00686
+WARNING:root:2020-02-20 Folder Temp already exists for AIM-00686
+INFO:root:2020-02-20 currently processing AIM-00687
+WARNING:root:2020-02-20 Folder Temp already exists for AIM-00687
+INFO:root:2020-02-20 currently processing AIM-00689
+WARNING:root:2020-02-20 Folder Temp already exists for AIM-00689
+INFO:root:2020-02-20 currently processing AIM-00695
+WARNING:root:2020-02-20 Folder Temp already exists for AIM-00695
+INFO:root:2020-02-20 currently processing AIM-00697
+WARNING:root:2020-02-20 Folder Temp already exists for AIM-00697
+INFO:root:2020-02-20 currently processing AIM-00701
+WARNING:root:2020-02-20 Folder Temp already exists for AIM-00701
+INFO:root:2020-02-20 currently processing AIM-00704
+WARNING:root:2020-02-20 Folder Temp already exists for AIM-00704
+INFO:root:2020-02-20 currently processing AIM-00705
+WARNING:root:2020-02-20 Folder Temp already exists for AIM-00705
+INFO:root:2020-02-20 currently processing AIM-00714
+WARNING:root:2020-02-20 Folder Temp already exists for AIM-00714
+INFO:root:2020-02-20 currently processing AIM-00717
+WARNING:root:2020-02-20 Folder Temp already exists for AIM-00717
+INFO:root:2020-02-20 currently processing AIM-00724
+WARNING:root:2020-02-20 Folder Temp already exists for AIM-00724
+INFO:root:2020-02-20 currently processing AIM-00725
+WARNING:root:2020-02-20 Folder Temp already exists for AIM-00725
+INFO:root:2020-02-20 currently processing AIM-00726
+WARNING:root:2020-02-20 Folder Temp already exists for AIM-00726
+INFO:root:2020-02-20 currently processing AIM-00727
+WARNING:root:2020-02-20 Folder Temp already exists for AIM-00727
+INFO:root:2020-02-20 currently processing tempExport
+WARNING:root:2020-02-20 Folder Temp already exists for tempExport
+2020-02-20 14:37:30 INFO     Parent Directory is:
+X:\RESEARCH\CATE_SHARE\CATE_Public\UM-Data\AIM_MRI\
+2020-02-20 14:37:30 INFO     2020-02-20 List of Files Found:
+['8-00461_8-00461_MR_2018-01-18_174143_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000', '8-00466_8-00466_MR_2018-04-24_144639_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n176__00000', '8-00468_8-00468_MR_2018-03-15_150818_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000', '8-00478_8-00478_MR_2018-07-19_101544_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000', '8-00484_8-00484_MR_2018-09-04_165146_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000', '8-00490_8-00490_MR_2018-08-21_194225_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000', '8-00491_8-00491_MR_2018-08-21_204507_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000', '8-00492_8-00492_MR_2018-08-21_170544_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000', '8-00493_8-00493_MR_2018-08-28_124727_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000', '9-00462_9-00462_MR_2018-01-18_153942_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000', '9-00464_9-00464_MR_2018-01-30_140142_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n160__00000', '9-00465_9-00465_MR_2018-03-27_142520_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000', '9-00467_9-00467_MR_2018-03-08_145843_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000', '9-00469_9-00469_MR_2018-11-05_134845_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000', '9-00470_9-00470_MR_2018-10-22_122103_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000', '9-00471_9-00471_MR_2018-03-20_142057_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000', '9-00473_9-00473_MR_2018-08-07_140551_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000', '9-00474_9-00474_MR_2018-06-19_141821_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000', '9-00477_9-00477_MR_2018-07-17_100033_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000', '9-00479_9-00479_MR_2018-10-11_104838_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000', '9-00480_9-00480_MR_2018-09-19_153208_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000', '9-00482_9-00482_MR_2018-05-02_180554_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000', '9-00483_9-00483_MR_2018-04-26_073544_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000', '9-00489_9-00489_MR_2018-08-15_115936_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000', '9-00496_9-00496_MR_2018-08-14_120732_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000', '9-00501_9-00501_MR_2018-09-05_160437_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000', '9-00510_9-00510_MR_2018-10-17_120410_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000', '9-00518_9-00518_MR_2018-10-25_095228_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000', '9-00531_9-00531_MR_2019-03-26_131725_Research^MR2015.01.DetectPAD_t1.mprage.sag.p2.iso.1mm_n192__00000', '9-00542_9-00542_MR_2019-08-05_105708_Research^MR2015.01.DetectPAD_t1.mprage.sag.p2.iso.1mm_n192__00000', '9-00569_9-00569_MR_2019-03-27_155611_Research^MR2015.01.DetectPAD_t1.mprage.sag.p2.iso.1mm_n192__00000', '9-00571_9-00571_MR_2019-02-12_132151_Research^MR2015.01.DetectPAD_t1.mprage.sag.p2.iso.1mm_n192__00000', '9-00601_9-00601_MR_2019-03-07_132817_Research^MR2015.01.DetectPAD_t1.mprage.sag.p2.iso.1mm_n192__00000', '9-00608_9-00608_MR_2019-04-25_134123_Research^MR2015.01.DetectPAD_t1.mprage.sag.p2.iso.1mm_n192__00000', '9-00631_9-00631_MR_2019-07-23_174544_Research^MR2015.01.DetectPAD_t1.mprage.sag.p2.iso.1mm_n192__00000', '9-00652_9-00652_MR_2019-08-27_132423_Research^MR2015.01.DetectPAD_t1.mprage.sag.p2.iso.1mm_n192__00000', '9-00669_9-00669_MR_2019-10-24_082338_Research^MR2019.03.AIM.Longitudenal.Study_t1.mprage.sag.p2.iso.1mm_n192__00000', '9-00678_9-00678_MR_2019-08-22_152336_Research^MR2015.01.DetectPAD_t1.mprage.sag.p2.iso.1mm_n192__00000', '9-00680_9-00680_MR_2019-09-13_151600_Research^MR2019.03.AIM.Longitudenal.Study_t1.mprage.sag.p2.iso.1mm_n192__00000', '9-00681_9-00681_MR_2019-09-13_162746_Research^MR2019.03.AIM.Longitudenal.Study_t1.mprage.sag.p2.iso.1mm_n192__00000', 'AIM-00502', 'AIM-00506', 'AIM-00507', 'AIM-00508', 'AIM-00509', 'AIM-00511', 'AIM-00512', 'AIM-00513', 'AIM-00514', 'AIM-00515', 'AIM-00524', 'AIM-00526', 'AIM-00528', 'AIM-00529', 'AIM-00530', 'AIM-00532', 'AIM-00533', 'AIM-00536', 'AIM-00538', 'AIM-00539', 'AIM-00540', 'AIM-00544', 'AIM-00545', 'AIM-00546', 'AIM-00548', 'AIM-00549', 'AIM-00550', 'AIM-00553', 'AIM-00561', 'AIM-00565', 'AIM-00573', 'AIM-00575', 'AIM-00577', 'AIM-00579', 'AIM-00581', 'AIM-00585', 'AIM-00587', 'AIM-00589', 'AIM-00593', 'AIM-00595', 'AIM-00603', 'AIM-00606', 'AIM-00609', 'AIM-00611', 'AIM-00612', 'AIM-00613', 'AIM-00632', 'AIM-00633', 'AIM-00635', 'AIM-00636', 'AIM-00637', 'AIM-00643', 'AIM-00645', 'AIM-00646', 'AIM-00647', 'AIM-00648', 'AIM-00649', 'AIM-00651', 'AIM-00654', 'AIM-00655', 'AIM-00656', 'AIM-00657', 'AIM-00660', 'AIM-00661', 'AIM-00662', 'AIM-00664', 'AIM-00665', 'AIM-00670', 'AIM-00675', 'AIM-00676', 'AIM-00683', 'AIM-00684', 'AIM-00686', 'AIM-00687', 'AIM-00689', 'AIM-00695', 'AIM-00697', 'AIM-00701', 'AIM-00704', 'AIM-00705', 'AIM-00714', 'AIM-00717', 'AIM-00724', 'AIM-00725', 'AIM-00726', 'AIM-00727', 'tempExport']
+2020-02-20 14:37:30 INFO     currently processing 8-00461_8-00461_MR_2018-01-18_174143_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:37:30 WARNING  2020-02-20 The folder name had an invalid character, changing name to:
+X:\RESEARCH\CATE_SHARE\CATE_Public\UM-Data\AIM_MRI\8-00461_8-00461_MR_2018-01-18_174143_Research^^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000\
+2020-02-20 14:37:30 WARNING   Folder Temp already exists for 8-00461_8-00461_MR_2018-01-18_174143_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:37:30 INFO     currently processing 8-00466_8-00466_MR_2018-04-24_144639_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n176__00000
+2020-02-20 14:37:30 WARNING  2020-02-20 The folder name had an invalid character, changing name to:
+X:\RESEARCH\CATE_SHARE\CATE_Public\UM-Data\AIM_MRI\8-00466_8-00466_MR_2018-04-24_144639_Research^^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n176__00000\
+2020-02-20 14:37:30 WARNING   Folder Temp already exists for 8-00466_8-00466_MR_2018-04-24_144639_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n176__00000
+2020-02-20 14:37:30 INFO     currently processing 8-00468_8-00468_MR_2018-03-15_150818_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:37:30 WARNING  2020-02-20 The folder name had an invalid character, changing name to:
+X:\RESEARCH\CATE_SHARE\CATE_Public\UM-Data\AIM_MRI\8-00468_8-00468_MR_2018-03-15_150818_Research^^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000\
+2020-02-20 14:37:30 WARNING   Folder Temp already exists for 8-00468_8-00468_MR_2018-03-15_150818_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:37:30 INFO     currently processing 8-00478_8-00478_MR_2018-07-19_101544_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:37:30 WARNING  2020-02-20 The folder name had an invalid character, changing name to:
+X:\RESEARCH\CATE_SHARE\CATE_Public\UM-Data\AIM_MRI\8-00478_8-00478_MR_2018-07-19_101544_Research^^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000\
+2020-02-20 14:37:30 WARNING   Folder Temp already exists for 8-00478_8-00478_MR_2018-07-19_101544_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:37:30 INFO     currently processing 8-00484_8-00484_MR_2018-09-04_165146_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:37:30 WARNING  2020-02-20 The folder name had an invalid character, changing name to:
+X:\RESEARCH\CATE_SHARE\CATE_Public\UM-Data\AIM_MRI\8-00484_8-00484_MR_2018-09-04_165146_Research^^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000\
+2020-02-20 14:37:30 WARNING   Folder Temp already exists for 8-00484_8-00484_MR_2018-09-04_165146_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:37:30 INFO     currently processing 8-00490_8-00490_MR_2018-08-21_194225_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:37:30 WARNING  2020-02-20 The folder name had an invalid character, changing name to:
+X:\RESEARCH\CATE_SHARE\CATE_Public\UM-Data\AIM_MRI\8-00490_8-00490_MR_2018-08-21_194225_Research^^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000\
+2020-02-20 14:37:30 WARNING   Folder Temp already exists for 8-00490_8-00490_MR_2018-08-21_194225_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:37:30 INFO     currently processing 8-00491_8-00491_MR_2018-08-21_204507_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:37:30 WARNING  2020-02-20 The folder name had an invalid character, changing name to:
+X:\RESEARCH\CATE_SHARE\CATE_Public\UM-Data\AIM_MRI\8-00491_8-00491_MR_2018-08-21_204507_Research^^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000\
+2020-02-20 14:37:30 WARNING   Folder Temp already exists for 8-00491_8-00491_MR_2018-08-21_204507_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:37:30 INFO     currently processing 8-00492_8-00492_MR_2018-08-21_170544_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:37:30 WARNING  2020-02-20 The folder name had an invalid character, changing name to:
+X:\RESEARCH\CATE_SHARE\CATE_Public\UM-Data\AIM_MRI\8-00492_8-00492_MR_2018-08-21_170544_Research^^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000\
+2020-02-20 14:37:30 WARNING   Folder Temp already exists for 8-00492_8-00492_MR_2018-08-21_170544_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:37:30 INFO     currently processing 8-00493_8-00493_MR_2018-08-28_124727_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:37:30 WARNING  2020-02-20 The folder name had an invalid character, changing name to:
+X:\RESEARCH\CATE_SHARE\CATE_Public\UM-Data\AIM_MRI\8-00493_8-00493_MR_2018-08-28_124727_Research^^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000\
+2020-02-20 14:37:30 WARNING   Folder Temp already exists for 8-00493_8-00493_MR_2018-08-28_124727_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:37:30 INFO     currently processing 9-00462_9-00462_MR_2018-01-18_153942_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:37:30 WARNING  2020-02-20 The folder name had an invalid character, changing name to:
+X:\RESEARCH\CATE_SHARE\CATE_Public\UM-Data\AIM_MRI\9-00462_9-00462_MR_2018-01-18_153942_Research^^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000\
+2020-02-20 14:37:30 WARNING   Folder Temp already exists for 9-00462_9-00462_MR_2018-01-18_153942_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:37:30 INFO     currently processing 9-00464_9-00464_MR_2018-01-30_140142_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n160__00000
+2020-02-20 14:37:30 WARNING  2020-02-20 The folder name had an invalid character, changing name to:
+X:\RESEARCH\CATE_SHARE\CATE_Public\UM-Data\AIM_MRI\9-00464_9-00464_MR_2018-01-30_140142_Research^^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n160__00000\
+2020-02-20 14:37:30 WARNING   Folder Temp already exists for 9-00464_9-00464_MR_2018-01-30_140142_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n160__00000
+2020-02-20 14:37:30 INFO     currently processing 9-00465_9-00465_MR_2018-03-27_142520_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:37:30 WARNING  2020-02-20 The folder name had an invalid character, changing name to:
+X:\RESEARCH\CATE_SHARE\CATE_Public\UM-Data\AIM_MRI\9-00465_9-00465_MR_2018-03-27_142520_Research^^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000\
+2020-02-20 14:37:30 WARNING   Folder Temp already exists for 9-00465_9-00465_MR_2018-03-27_142520_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:37:30 INFO     currently processing 9-00467_9-00467_MR_2018-03-08_145843_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:37:30 WARNING  2020-02-20 The folder name had an invalid character, changing name to:
+X:\RESEARCH\CATE_SHARE\CATE_Public\UM-Data\AIM_MRI\9-00467_9-00467_MR_2018-03-08_145843_Research^^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000\
+2020-02-20 14:37:30 WARNING   Folder Temp already exists for 9-00467_9-00467_MR_2018-03-08_145843_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:37:30 INFO     currently processing 9-00469_9-00469_MR_2018-11-05_134845_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:37:30 WARNING  2020-02-20 The folder name had an invalid character, changing name to:
+X:\RESEARCH\CATE_SHARE\CATE_Public\UM-Data\AIM_MRI\9-00469_9-00469_MR_2018-11-05_134845_Research^^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000\
+2020-02-20 14:37:30 WARNING   Folder Temp already exists for 9-00469_9-00469_MR_2018-11-05_134845_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:37:30 INFO     currently processing 9-00470_9-00470_MR_2018-10-22_122103_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:37:30 WARNING  2020-02-20 The folder name had an invalid character, changing name to:
+X:\RESEARCH\CATE_SHARE\CATE_Public\UM-Data\AIM_MRI\9-00470_9-00470_MR_2018-10-22_122103_Research^^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000\
+2020-02-20 14:37:30 WARNING   Folder Temp already exists for 9-00470_9-00470_MR_2018-10-22_122103_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:37:30 INFO     currently processing 9-00471_9-00471_MR_2018-03-20_142057_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:37:30 WARNING  2020-02-20 The folder name had an invalid character, changing name to:
+X:\RESEARCH\CATE_SHARE\CATE_Public\UM-Data\AIM_MRI\9-00471_9-00471_MR_2018-03-20_142057_Research^^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000\
+2020-02-20 14:37:30 WARNING   Folder Temp already exists for 9-00471_9-00471_MR_2018-03-20_142057_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:37:30 INFO     currently processing 9-00473_9-00473_MR_2018-08-07_140551_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:37:30 WARNING  2020-02-20 The folder name had an invalid character, changing name to:
+X:\RESEARCH\CATE_SHARE\CATE_Public\UM-Data\AIM_MRI\9-00473_9-00473_MR_2018-08-07_140551_Research^^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000\
+2020-02-20 14:37:30 WARNING   Folder Temp already exists for 9-00473_9-00473_MR_2018-08-07_140551_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:37:30 INFO     currently processing 9-00474_9-00474_MR_2018-06-19_141821_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:37:30 WARNING  2020-02-20 The folder name had an invalid character, changing name to:
+X:\RESEARCH\CATE_SHARE\CATE_Public\UM-Data\AIM_MRI\9-00474_9-00474_MR_2018-06-19_141821_Research^^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000\
+2020-02-20 14:37:30 WARNING   Folder Temp already exists for 9-00474_9-00474_MR_2018-06-19_141821_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:37:30 INFO     currently processing 9-00477_9-00477_MR_2018-07-17_100033_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:37:30 WARNING  2020-02-20 The folder name had an invalid character, changing name to:
+X:\RESEARCH\CATE_SHARE\CATE_Public\UM-Data\AIM_MRI\9-00477_9-00477_MR_2018-07-17_100033_Research^^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000\
+2020-02-20 14:37:30 WARNING   Folder Temp already exists for 9-00477_9-00477_MR_2018-07-17_100033_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:37:30 INFO     currently processing 9-00479_9-00479_MR_2018-10-11_104838_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:37:30 WARNING  2020-02-20 The folder name had an invalid character, changing name to:
+X:\RESEARCH\CATE_SHARE\CATE_Public\UM-Data\AIM_MRI\9-00479_9-00479_MR_2018-10-11_104838_Research^^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000\
+2020-02-20 14:37:30 WARNING   Folder Temp already exists for 9-00479_9-00479_MR_2018-10-11_104838_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:37:30 INFO     currently processing 9-00480_9-00480_MR_2018-09-19_153208_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:37:30 WARNING  2020-02-20 The folder name had an invalid character, changing name to:
+X:\RESEARCH\CATE_SHARE\CATE_Public\UM-Data\AIM_MRI\9-00480_9-00480_MR_2018-09-19_153208_Research^^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000\
+2020-02-20 14:37:30 WARNING   Folder Temp already exists for 9-00480_9-00480_MR_2018-09-19_153208_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:37:30 INFO     currently processing 9-00482_9-00482_MR_2018-05-02_180554_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:37:30 WARNING  2020-02-20 The folder name had an invalid character, changing name to:
+X:\RESEARCH\CATE_SHARE\CATE_Public\UM-Data\AIM_MRI\9-00482_9-00482_MR_2018-05-02_180554_Research^^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000\
+2020-02-20 14:37:30 WARNING   Folder Temp already exists for 9-00482_9-00482_MR_2018-05-02_180554_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:37:30 INFO     currently processing 9-00483_9-00483_MR_2018-04-26_073544_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:37:30 WARNING  2020-02-20 The folder name had an invalid character, changing name to:
+X:\RESEARCH\CATE_SHARE\CATE_Public\UM-Data\AIM_MRI\9-00483_9-00483_MR_2018-04-26_073544_Research^^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000\
+2020-02-20 14:37:30 WARNING   Folder Temp already exists for 9-00483_9-00483_MR_2018-04-26_073544_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:37:30 INFO     currently processing 9-00489_9-00489_MR_2018-08-15_115936_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:37:30 WARNING  2020-02-20 The folder name had an invalid character, changing name to:
+X:\RESEARCH\CATE_SHARE\CATE_Public\UM-Data\AIM_MRI\9-00489_9-00489_MR_2018-08-15_115936_Research^^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000\
+2020-02-20 14:37:30 WARNING   Folder Temp already exists for 9-00489_9-00489_MR_2018-08-15_115936_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:37:30 INFO     currently processing 9-00496_9-00496_MR_2018-08-14_120732_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:37:30 WARNING  2020-02-20 The folder name had an invalid character, changing name to:
+X:\RESEARCH\CATE_SHARE\CATE_Public\UM-Data\AIM_MRI\9-00496_9-00496_MR_2018-08-14_120732_Research^^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000\
+2020-02-20 14:37:30 WARNING   Folder Temp already exists for 9-00496_9-00496_MR_2018-08-14_120732_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:37:30 INFO     currently processing 9-00501_9-00501_MR_2018-09-05_160437_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:37:30 WARNING  2020-02-20 The folder name had an invalid character, changing name to:
+X:\RESEARCH\CATE_SHARE\CATE_Public\UM-Data\AIM_MRI\9-00501_9-00501_MR_2018-09-05_160437_Research^^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000\
+2020-02-20 14:37:30 WARNING   Folder Temp already exists for 9-00501_9-00501_MR_2018-09-05_160437_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:37:30 INFO     currently processing 9-00510_9-00510_MR_2018-10-17_120410_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:37:30 WARNING  2020-02-20 The folder name had an invalid character, changing name to:
+X:\RESEARCH\CATE_SHARE\CATE_Public\UM-Data\AIM_MRI\9-00510_9-00510_MR_2018-10-17_120410_Research^^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000\
+2020-02-20 14:37:30 WARNING   Folder Temp already exists for 9-00510_9-00510_MR_2018-10-17_120410_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:37:30 INFO     currently processing 9-00518_9-00518_MR_2018-10-25_095228_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:37:30 WARNING  2020-02-20 The folder name had an invalid character, changing name to:
+X:\RESEARCH\CATE_SHARE\CATE_Public\UM-Data\AIM_MRI\9-00518_9-00518_MR_2018-10-25_095228_Research^^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000\
+2020-02-20 14:37:30 WARNING   Folder Temp already exists for 9-00518_9-00518_MR_2018-10-25_095228_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:37:30 INFO     currently processing 9-00531_9-00531_MR_2019-03-26_131725_Research^MR2015.01.DetectPAD_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:37:30 WARNING  2020-02-20 The folder name had an invalid character, changing name to:
+X:\RESEARCH\CATE_SHARE\CATE_Public\UM-Data\AIM_MRI\9-00531_9-00531_MR_2019-03-26_131725_Research^^MR2015.01.DetectPAD_t1.mprage.sag.p2.iso.1mm_n192__00000\
+2020-02-20 14:37:30 WARNING   Folder Temp already exists for 9-00531_9-00531_MR_2019-03-26_131725_Research^MR2015.01.DetectPAD_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:37:30 INFO     currently processing 9-00542_9-00542_MR_2019-08-05_105708_Research^MR2015.01.DetectPAD_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:37:30 WARNING  2020-02-20 The folder name had an invalid character, changing name to:
+X:\RESEARCH\CATE_SHARE\CATE_Public\UM-Data\AIM_MRI\9-00542_9-00542_MR_2019-08-05_105708_Research^^MR2015.01.DetectPAD_t1.mprage.sag.p2.iso.1mm_n192__00000\
+2020-02-20 14:37:30 WARNING   Folder Temp already exists for 9-00542_9-00542_MR_2019-08-05_105708_Research^MR2015.01.DetectPAD_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:37:30 INFO     currently processing 9-00569_9-00569_MR_2019-03-27_155611_Research^MR2015.01.DetectPAD_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:37:30 WARNING  2020-02-20 The folder name had an invalid character, changing name to:
+X:\RESEARCH\CATE_SHARE\CATE_Public\UM-Data\AIM_MRI\9-00569_9-00569_MR_2019-03-27_155611_Research^^MR2015.01.DetectPAD_t1.mprage.sag.p2.iso.1mm_n192__00000\
+2020-02-20 14:37:30 WARNING   Folder Temp already exists for 9-00569_9-00569_MR_2019-03-27_155611_Research^MR2015.01.DetectPAD_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:37:30 INFO     currently processing 9-00571_9-00571_MR_2019-02-12_132151_Research^MR2015.01.DetectPAD_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:37:30 WARNING  2020-02-20 The folder name had an invalid character, changing name to:
+X:\RESEARCH\CATE_SHARE\CATE_Public\UM-Data\AIM_MRI\9-00571_9-00571_MR_2019-02-12_132151_Research^^MR2015.01.DetectPAD_t1.mprage.sag.p2.iso.1mm_n192__00000\
+2020-02-20 14:37:31 WARNING   Folder Temp already exists for 9-00571_9-00571_MR_2019-02-12_132151_Research^MR2015.01.DetectPAD_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:37:31 INFO     currently processing 9-00601_9-00601_MR_2019-03-07_132817_Research^MR2015.01.DetectPAD_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:37:31 WARNING  2020-02-20 The folder name had an invalid character, changing name to:
+X:\RESEARCH\CATE_SHARE\CATE_Public\UM-Data\AIM_MRI\9-00601_9-00601_MR_2019-03-07_132817_Research^^MR2015.01.DetectPAD_t1.mprage.sag.p2.iso.1mm_n192__00000\
+2020-02-20 14:37:31 WARNING   Folder Temp already exists for 9-00601_9-00601_MR_2019-03-07_132817_Research^MR2015.01.DetectPAD_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:37:31 INFO     currently processing 9-00608_9-00608_MR_2019-04-25_134123_Research^MR2015.01.DetectPAD_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:37:31 WARNING  2020-02-20 The folder name had an invalid character, changing name to:
+X:\RESEARCH\CATE_SHARE\CATE_Public\UM-Data\AIM_MRI\9-00608_9-00608_MR_2019-04-25_134123_Research^^MR2015.01.DetectPAD_t1.mprage.sag.p2.iso.1mm_n192__00000\
+2020-02-20 14:37:31 WARNING   Folder Temp already exists for 9-00608_9-00608_MR_2019-04-25_134123_Research^MR2015.01.DetectPAD_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:37:31 INFO     currently processing 9-00631_9-00631_MR_2019-07-23_174544_Research^MR2015.01.DetectPAD_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:37:31 WARNING  2020-02-20 The folder name had an invalid character, changing name to:
+X:\RESEARCH\CATE_SHARE\CATE_Public\UM-Data\AIM_MRI\9-00631_9-00631_MR_2019-07-23_174544_Research^^MR2015.01.DetectPAD_t1.mprage.sag.p2.iso.1mm_n192__00000\
+2020-02-20 14:37:31 WARNING   Folder Temp already exists for 9-00631_9-00631_MR_2019-07-23_174544_Research^MR2015.01.DetectPAD_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:37:31 INFO     currently processing 9-00652_9-00652_MR_2019-08-27_132423_Research^MR2015.01.DetectPAD_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:37:31 WARNING  2020-02-20 The folder name had an invalid character, changing name to:
+X:\RESEARCH\CATE_SHARE\CATE_Public\UM-Data\AIM_MRI\9-00652_9-00652_MR_2019-08-27_132423_Research^^MR2015.01.DetectPAD_t1.mprage.sag.p2.iso.1mm_n192__00000\
+2020-02-20 14:37:31 WARNING   Folder Temp already exists for 9-00652_9-00652_MR_2019-08-27_132423_Research^MR2015.01.DetectPAD_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:37:31 INFO     currently processing 9-00669_9-00669_MR_2019-10-24_082338_Research^MR2019.03.AIM.Longitudenal.Study_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:37:31 WARNING  2020-02-20 The folder name had an invalid character, changing name to:
+X:\RESEARCH\CATE_SHARE\CATE_Public\UM-Data\AIM_MRI\9-00669_9-00669_MR_2019-10-24_082338_Research^^MR2019.03.AIM.Longitudenal.Study_t1.mprage.sag.p2.iso.1mm_n192__00000\
+2020-02-20 14:37:31 WARNING   Folder Temp already exists for 9-00669_9-00669_MR_2019-10-24_082338_Research^MR2019.03.AIM.Longitudenal.Study_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:37:31 INFO     currently processing 9-00678_9-00678_MR_2019-08-22_152336_Research^MR2015.01.DetectPAD_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:37:31 WARNING  2020-02-20 The folder name had an invalid character, changing name to:
+X:\RESEARCH\CATE_SHARE\CATE_Public\UM-Data\AIM_MRI\9-00678_9-00678_MR_2019-08-22_152336_Research^^MR2015.01.DetectPAD_t1.mprage.sag.p2.iso.1mm_n192__00000\
+2020-02-20 14:37:31 WARNING   Folder Temp already exists for 9-00678_9-00678_MR_2019-08-22_152336_Research^MR2015.01.DetectPAD_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:37:31 INFO     currently processing 9-00680_9-00680_MR_2019-09-13_151600_Research^MR2019.03.AIM.Longitudenal.Study_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:37:31 WARNING  2020-02-20 The folder name had an invalid character, changing name to:
+X:\RESEARCH\CATE_SHARE\CATE_Public\UM-Data\AIM_MRI\9-00680_9-00680_MR_2019-09-13_151600_Research^^MR2019.03.AIM.Longitudenal.Study_t1.mprage.sag.p2.iso.1mm_n192__00000\
+2020-02-20 14:37:31 WARNING   Folder Temp already exists for 9-00680_9-00680_MR_2019-09-13_151600_Research^MR2019.03.AIM.Longitudenal.Study_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:37:31 INFO     currently processing 9-00681_9-00681_MR_2019-09-13_162746_Research^MR2019.03.AIM.Longitudenal.Study_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:37:31 WARNING  2020-02-20 The folder name had an invalid character, changing name to:
+X:\RESEARCH\CATE_SHARE\CATE_Public\UM-Data\AIM_MRI\9-00681_9-00681_MR_2019-09-13_162746_Research^^MR2019.03.AIM.Longitudenal.Study_t1.mprage.sag.p2.iso.1mm_n192__00000\
+2020-02-20 14:37:31 WARNING   Folder Temp already exists for 9-00681_9-00681_MR_2019-09-13_162746_Research^MR2019.03.AIM.Longitudenal.Study_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:37:31 INFO     currently processing AIM-00502
+2020-02-20 14:37:32 WARNING   Folder Temp already exists for AIM-00502
+2020-02-20 14:37:32 INFO     currently processing AIM-00506
+2020-02-20 14:37:33 WARNING   Folder Temp already exists for AIM-00506
+2020-02-20 14:37:33 INFO     currently processing AIM-00507
+2020-02-20 14:37:34 WARNING   Folder Temp already exists for AIM-00507
+2020-02-20 14:37:34 INFO     currently processing AIM-00508
+2020-02-20 14:37:35 WARNING   Folder Temp already exists for AIM-00508
+2020-02-20 14:37:35 INFO     currently processing AIM-00509
+2020-02-20 14:37:36 WARNING   Folder Temp already exists for AIM-00509
+2020-02-20 14:37:36 INFO     currently processing AIM-00511
+2020-02-20 14:37:37 WARNING   Folder Temp already exists for AIM-00511
+2020-02-20 14:37:37 INFO     currently processing AIM-00512
+2020-02-20 14:37:39 WARNING   Folder Temp already exists for AIM-00512
+2020-02-20 14:37:39 INFO     currently processing AIM-00513
+2020-02-20 14:37:40 WARNING   Folder Temp already exists for AIM-00513
+2020-02-20 14:37:40 INFO     currently processing AIM-00514
+2020-02-20 14:37:41 WARNING   Folder Temp already exists for AIM-00514
+2020-02-20 14:37:41 INFO     currently processing AIM-00515
+2020-02-20 14:37:42 WARNING   Folder Temp already exists for AIM-00515
+2020-02-20 14:37:42 INFO     currently processing AIM-00524
+2020-02-20 14:37:44 WARNING   Folder Temp already exists for AIM-00524
+2020-02-20 14:37:44 INFO     currently processing AIM-00526
+2020-02-20 14:37:45 WARNING   Folder Temp already exists for AIM-00526
+2020-02-20 14:37:45 INFO     currently processing AIM-00528
+2020-02-20 14:37:46 WARNING   Folder Temp already exists for AIM-00528
+2020-02-20 14:37:46 INFO     currently processing AIM-00529
+2020-02-20 14:37:47 WARNING   Folder Temp already exists for AIM-00529
+2020-02-20 14:37:47 INFO     currently processing AIM-00530
+2020-02-20 14:37:49 WARNING   Folder Temp already exists for AIM-00530
+2020-02-20 14:37:49 INFO     currently processing AIM-00532
+2020-02-20 14:37:50 WARNING   Folder Temp already exists for AIM-00532
+2020-02-20 14:37:50 INFO     currently processing AIM-00533
+2020-02-20 14:37:51 WARNING   Folder Temp already exists for AIM-00533
+2020-02-20 14:37:51 INFO     currently processing AIM-00536
+2020-02-20 14:37:52 WARNING   Folder Temp already exists for AIM-00536
+2020-02-20 14:37:52 INFO     currently processing AIM-00538
+2020-02-20 14:37:54 WARNING   Folder Temp already exists for AIM-00538
+2020-02-20 14:37:54 INFO     currently processing AIM-00539
+2020-02-20 14:37:55 WARNING   Folder Temp already exists for AIM-00539
+2020-02-20 14:37:55 INFO     currently processing AIM-00540
+2020-02-20 14:37:56 WARNING   Folder Temp already exists for AIM-00540
+2020-02-20 14:37:56 INFO     currently processing AIM-00544
+2020-02-20 14:37:58 WARNING   Folder Temp already exists for AIM-00544
+2020-02-20 14:37:58 INFO     currently processing AIM-00545
+2020-02-20 14:37:59 WARNING   Folder Temp already exists for AIM-00545
+2020-02-20 14:37:59 INFO     currently processing AIM-00546
+2020-02-20 14:38:00 WARNING   Folder Temp already exists for AIM-00546
+2020-02-20 14:38:00 INFO     currently processing AIM-00548
+2020-02-20 14:38:01 WARNING   Folder Temp already exists for AIM-00548
+2020-02-20 14:38:01 INFO     currently processing AIM-00549
+2020-02-20 14:38:03 WARNING   Folder Temp already exists for AIM-00549
+2020-02-20 14:38:03 INFO     currently processing AIM-00550
+2020-02-20 14:38:04 WARNING   Folder Temp already exists for AIM-00550
+2020-02-20 14:38:04 INFO     currently processing AIM-00553
+2020-02-20 14:38:05 WARNING   Folder Temp already exists for AIM-00553
+2020-02-20 14:38:05 INFO     currently processing AIM-00561
+2020-02-20 14:38:06 WARNING   Folder Temp already exists for AIM-00561
+2020-02-20 14:38:06 INFO     currently processing AIM-00565
+2020-02-20 14:38:08 WARNING   Folder Temp already exists for AIM-00565
+2020-02-20 14:38:08 INFO     currently processing AIM-00573
+2020-02-20 14:38:09 WARNING   Folder Temp already exists for AIM-00573
+2020-02-20 14:38:09 INFO     currently processing AIM-00575
+2020-02-20 14:38:10 WARNING   Folder Temp already exists for AIM-00575
+2020-02-20 14:38:10 INFO     currently processing AIM-00577
+2020-02-20 14:38:11 WARNING   Folder Temp already exists for AIM-00577
+2020-02-20 14:38:11 INFO     currently processing AIM-00579
+2020-02-20 14:38:13 WARNING   Folder Temp already exists for AIM-00579
+2020-02-20 14:38:13 INFO     currently processing AIM-00581
+2020-02-20 14:38:14 WARNING   Folder Temp already exists for AIM-00581
+2020-02-20 14:38:14 INFO     currently processing AIM-00585
+2020-02-20 14:38:15 WARNING   Folder Temp already exists for AIM-00585
+2020-02-20 14:38:15 INFO     currently processing AIM-00587
+2020-02-20 14:38:16 WARNING   Folder Temp already exists for AIM-00587
+2020-02-20 14:38:16 INFO     currently processing AIM-00589
+2020-02-20 14:38:18 WARNING   Folder Temp already exists for AIM-00589
+2020-02-20 14:38:18 INFO     currently processing AIM-00593
+2020-02-20 14:38:19 WARNING   Folder Temp already exists for AIM-00593
+2020-02-20 14:38:19 INFO     currently processing AIM-00595
+2020-02-20 14:38:20 WARNING   Folder Temp already exists for AIM-00595
+2020-02-20 14:38:20 INFO     currently processing AIM-00603
+2020-02-20 14:38:21 WARNING   Folder Temp already exists for AIM-00603
+2020-02-20 14:38:21 INFO     currently processing AIM-00606
+2020-02-20 14:38:22 WARNING   Folder Temp already exists for AIM-00606
+2020-02-20 14:38:22 INFO     currently processing AIM-00609
+2020-02-20 14:38:24 WARNING   Folder Temp already exists for AIM-00609
+2020-02-20 14:38:24 INFO     currently processing AIM-00611
+2020-02-20 14:38:25 WARNING   Folder Temp already exists for AIM-00611
+2020-02-20 14:38:25 INFO     currently processing AIM-00612
+2020-02-20 14:38:26 WARNING   Folder Temp already exists for AIM-00612
+2020-02-20 14:38:26 INFO     currently processing AIM-00613
+2020-02-20 14:38:27 WARNING   Folder Temp already exists for AIM-00613
+2020-02-20 14:38:27 INFO     currently processing AIM-00632
+2020-02-20 14:38:29 WARNING   Folder Temp already exists for AIM-00632
+2020-02-20 14:38:29 INFO     currently processing AIM-00633
+2020-02-20 14:38:30 WARNING   Folder Temp already exists for AIM-00633
+2020-02-20 14:38:30 INFO     currently processing AIM-00635
+2020-02-20 14:38:31 WARNING   Folder Temp already exists for AIM-00635
+2020-02-20 14:38:31 INFO     currently processing AIM-00636
+2020-02-20 14:38:32 WARNING   Folder Temp already exists for AIM-00636
+2020-02-20 14:38:32 INFO     currently processing AIM-00637
+2020-02-20 14:38:34 WARNING   Folder Temp already exists for AIM-00637
+2020-02-20 14:38:34 INFO     currently processing AIM-00643
+2020-02-20 14:38:35 WARNING   Folder Temp already exists for AIM-00643
+2020-02-20 14:38:35 INFO     currently processing AIM-00645
+2020-02-20 14:38:37 WARNING   Folder Temp already exists for AIM-00645
+2020-02-20 14:38:37 INFO     currently processing AIM-00646
+2020-02-20 14:38:38 WARNING   Folder Temp already exists for AIM-00646
+2020-02-20 14:38:38 INFO     currently processing AIM-00647
+2020-02-20 14:38:39 WARNING   Folder Temp already exists for AIM-00647
+2020-02-20 14:38:39 INFO     currently processing AIM-00648
+2020-02-20 14:38:40 WARNING   Folder Temp already exists for AIM-00648
+2020-02-20 14:38:40 INFO     currently processing AIM-00649
+2020-02-20 14:38:42 WARNING   Folder Temp already exists for AIM-00649
+2020-02-20 14:38:42 INFO     currently processing AIM-00651
+2020-02-20 14:38:43 WARNING   Folder Temp already exists for AIM-00651
+2020-02-20 14:38:43 INFO     currently processing AIM-00654
+2020-02-20 14:38:44 WARNING   Folder Temp already exists for AIM-00654
+2020-02-20 14:38:44 INFO     currently processing AIM-00655
+2020-02-20 14:38:45 WARNING   Folder Temp already exists for AIM-00655
+2020-02-20 14:38:45 INFO     currently processing AIM-00656
+2020-02-20 14:38:47 WARNING   Folder Temp already exists for AIM-00656
+2020-02-20 14:38:47 INFO     currently processing AIM-00657
+2020-02-20 14:38:48 WARNING   Folder Temp already exists for AIM-00657
+2020-02-20 14:38:48 INFO     currently processing AIM-00660
+2020-02-20 14:38:49 WARNING   Folder Temp already exists for AIM-00660
+2020-02-20 14:38:49 INFO     currently processing AIM-00661
+2020-02-20 14:38:50 WARNING   Folder Temp already exists for AIM-00661
+2020-02-20 14:38:50 INFO     currently processing AIM-00662
+2020-02-20 14:38:52 WARNING   Folder Temp already exists for AIM-00662
+2020-02-20 14:38:52 INFO     currently processing AIM-00664
+2020-02-20 14:38:53 WARNING   Folder Temp already exists for AIM-00664
+2020-02-20 14:38:53 INFO     currently processing AIM-00665
+2020-02-20 14:38:54 WARNING   Folder Temp already exists for AIM-00665
+2020-02-20 14:38:54 INFO     currently processing AIM-00670
+2020-02-20 14:38:55 WARNING   Folder Temp already exists for AIM-00670
+2020-02-20 14:38:55 INFO     currently processing AIM-00675
+2020-02-20 14:38:57 WARNING   Folder Temp already exists for AIM-00675
+2020-02-20 14:38:57 INFO     currently processing AIM-00676
+2020-02-20 14:38:58 WARNING   Folder Temp already exists for AIM-00676
+2020-02-20 14:38:58 INFO     currently processing AIM-00683
+2020-02-20 14:38:59 WARNING   Folder Temp already exists for AIM-00683
+2020-02-20 14:38:59 INFO     currently processing AIM-00684
+2020-02-20 14:39:01 WARNING   Folder Temp already exists for AIM-00684
+2020-02-20 14:39:01 INFO     currently processing AIM-00686
+2020-02-20 14:39:02 WARNING   Folder Temp already exists for AIM-00686
+2020-02-20 14:39:02 INFO     currently processing AIM-00687
+2020-02-20 14:39:03 WARNING   Folder Temp already exists for AIM-00687
+2020-02-20 14:39:03 INFO     currently processing AIM-00689
+2020-02-20 14:39:04 WARNING   Folder Temp already exists for AIM-00689
+2020-02-20 14:39:05 INFO     currently processing AIM-00695
+2020-02-20 14:39:06 WARNING   Folder Temp already exists for AIM-00695
+2020-02-20 14:39:06 INFO     currently processing AIM-00697
+2020-02-20 14:39:07 WARNING   Folder Temp already exists for AIM-00697
+2020-02-20 14:39:07 INFO     currently processing AIM-00701
+2020-02-20 14:39:08 WARNING   Folder Temp already exists for AIM-00701
+2020-02-20 14:39:08 INFO     currently processing AIM-00704
+2020-02-20 14:39:10 WARNING   Folder Temp already exists for AIM-00704
+2020-02-20 14:39:10 INFO     currently processing AIM-00705
+2020-02-20 14:39:11 WARNING   Folder Temp already exists for AIM-00705
+2020-02-20 14:39:11 INFO     currently processing AIM-00714
+2020-02-20 14:39:12 WARNING   Folder Temp already exists for AIM-00714
+2020-02-20 14:39:12 INFO     currently processing AIM-00717
+2020-02-20 14:39:13 WARNING   Folder Temp already exists for AIM-00717
+2020-02-20 14:39:13 INFO     currently processing AIM-00724
+2020-02-20 14:39:15 WARNING   Folder Temp already exists for AIM-00724
+2020-02-20 14:39:15 INFO     currently processing AIM-00725
+2020-02-20 14:39:16 WARNING   Folder Temp already exists for AIM-00725
+2020-02-20 14:39:16 INFO     currently processing AIM-00726
+2020-02-20 14:39:17 WARNING   Folder Temp already exists for AIM-00726
+2020-02-20 14:39:17 INFO     currently processing AIM-00727
+2020-02-20 14:39:19 WARNING   Folder Temp already exists for AIM-00727
+2020-02-20 14:39:19 INFO     currently processing tempExport
+2020-02-20 14:39:19 WARNING   Folder Temp already exists for tempExport
+2020-02-20 14:46:18 INFO     Parent Directory is:
+X:\RESEARCH\CATE_SHARE\CATE_Public\UM-Data\AIM_MRI\
+2020-02-20 14:46:18 INFO     2020-02-20 List of Files Found:
+['8-00461_8-00461_MR_2018-01-18_174143_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000', '8-00466_8-00466_MR_2018-04-24_144639_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n176__00000', '8-00468_8-00468_MR_2018-03-15_150818_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000', '8-00478_8-00478_MR_2018-07-19_101544_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000', '8-00484_8-00484_MR_2018-09-04_165146_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000', '8-00490_8-00490_MR_2018-08-21_194225_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000', '8-00491_8-00491_MR_2018-08-21_204507_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000', '8-00492_8-00492_MR_2018-08-21_170544_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000', '8-00493_8-00493_MR_2018-08-28_124727_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000', '9-00462_9-00462_MR_2018-01-18_153942_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000', '9-00464_9-00464_MR_2018-01-30_140142_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n160__00000', '9-00465_9-00465_MR_2018-03-27_142520_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000', '9-00467_9-00467_MR_2018-03-08_145843_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000', '9-00469_9-00469_MR_2018-11-05_134845_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000', '9-00470_9-00470_MR_2018-10-22_122103_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000', '9-00471_9-00471_MR_2018-03-20_142057_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000', '9-00473_9-00473_MR_2018-08-07_140551_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000', '9-00474_9-00474_MR_2018-06-19_141821_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000', '9-00477_9-00477_MR_2018-07-17_100033_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000', '9-00479_9-00479_MR_2018-10-11_104838_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000', '9-00480_9-00480_MR_2018-09-19_153208_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000', '9-00482_9-00482_MR_2018-05-02_180554_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000', '9-00483_9-00483_MR_2018-04-26_073544_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000', '9-00489_9-00489_MR_2018-08-15_115936_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000', '9-00496_9-00496_MR_2018-08-14_120732_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000', '9-00501_9-00501_MR_2018-09-05_160437_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000', '9-00510_9-00510_MR_2018-10-17_120410_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000', '9-00518_9-00518_MR_2018-10-25_095228_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000', '9-00531_9-00531_MR_2019-03-26_131725_Research^MR2015.01.DetectPAD_t1.mprage.sag.p2.iso.1mm_n192__00000', '9-00542_9-00542_MR_2019-08-05_105708_Research^MR2015.01.DetectPAD_t1.mprage.sag.p2.iso.1mm_n192__00000', '9-00569_9-00569_MR_2019-03-27_155611_Research^MR2015.01.DetectPAD_t1.mprage.sag.p2.iso.1mm_n192__00000', '9-00571_9-00571_MR_2019-02-12_132151_Research^MR2015.01.DetectPAD_t1.mprage.sag.p2.iso.1mm_n192__00000', '9-00601_9-00601_MR_2019-03-07_132817_Research^MR2015.01.DetectPAD_t1.mprage.sag.p2.iso.1mm_n192__00000', '9-00608_9-00608_MR_2019-04-25_134123_Research^MR2015.01.DetectPAD_t1.mprage.sag.p2.iso.1mm_n192__00000', '9-00631_9-00631_MR_2019-07-23_174544_Research^MR2015.01.DetectPAD_t1.mprage.sag.p2.iso.1mm_n192__00000', '9-00652_9-00652_MR_2019-08-27_132423_Research^MR2015.01.DetectPAD_t1.mprage.sag.p2.iso.1mm_n192__00000', '9-00669_9-00669_MR_2019-10-24_082338_Research^MR2019.03.AIM.Longitudenal.Study_t1.mprage.sag.p2.iso.1mm_n192__00000', '9-00678_9-00678_MR_2019-08-22_152336_Research^MR2015.01.DetectPAD_t1.mprage.sag.p2.iso.1mm_n192__00000', '9-00680_9-00680_MR_2019-09-13_151600_Research^MR2019.03.AIM.Longitudenal.Study_t1.mprage.sag.p2.iso.1mm_n192__00000', '9-00681_9-00681_MR_2019-09-13_162746_Research^MR2019.03.AIM.Longitudenal.Study_t1.mprage.sag.p2.iso.1mm_n192__00000', 'AIM-00502', 'AIM-00506', 'AIM-00507', 'AIM-00508', 'AIM-00509', 'AIM-00511', 'AIM-00512', 'AIM-00513', 'AIM-00514', 'AIM-00515', 'AIM-00524', 'AIM-00526', 'AIM-00528', 'AIM-00529', 'AIM-00530', 'AIM-00532', 'AIM-00533', 'AIM-00536', 'AIM-00538', 'AIM-00539', 'AIM-00540', 'AIM-00544', 'AIM-00545', 'AIM-00546', 'AIM-00548', 'AIM-00549', 'AIM-00550', 'AIM-00553', 'AIM-00561', 'AIM-00565', 'AIM-00573', 'AIM-00575', 'AIM-00577', 'AIM-00579', 'AIM-00581', 'AIM-00585', 'AIM-00587', 'AIM-00589', 'AIM-00593', 'AIM-00595', 'AIM-00603', 'AIM-00606', 'AIM-00609', 'AIM-00611', 'AIM-00612', 'AIM-00613', 'AIM-00632', 'AIM-00633', 'AIM-00635', 'AIM-00636', 'AIM-00637', 'AIM-00643', 'AIM-00645', 'AIM-00646', 'AIM-00647', 'AIM-00648', 'AIM-00649', 'AIM-00651', 'AIM-00654', 'AIM-00655', 'AIM-00656', 'AIM-00657', 'AIM-00660', 'AIM-00661', 'AIM-00662', 'AIM-00664', 'AIM-00665', 'AIM-00670', 'AIM-00675', 'AIM-00676', 'AIM-00683', 'AIM-00684', 'AIM-00686', 'AIM-00687', 'AIM-00689', 'AIM-00695', 'AIM-00697', 'AIM-00701', 'AIM-00704', 'AIM-00705', 'AIM-00714', 'AIM-00717', 'AIM-00724', 'AIM-00725', 'AIM-00726', 'AIM-00727', 'tempExport']
+2020-02-20 14:46:18 INFO     currently processing 8-00461_8-00461_MR_2018-01-18_174143_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:46:18 WARNING  2020-02-20 The folder name had an invalid character, changing name to:
+X:\RESEARCH\CATE_SHARE\CATE_Public\UM-Data\AIM_MRI\8-00461_8-00461_MR_2018-01-18_174143_Research^^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000\
+2020-02-20 14:46:18 WARNING   Folder Temp already exists for 8-00461_8-00461_MR_2018-01-18_174143_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:46:18 INFO     currently processing 8-00466_8-00466_MR_2018-04-24_144639_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n176__00000
+2020-02-20 14:46:18 WARNING  2020-02-20 The folder name had an invalid character, changing name to:
+X:\RESEARCH\CATE_SHARE\CATE_Public\UM-Data\AIM_MRI\8-00466_8-00466_MR_2018-04-24_144639_Research^^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n176__00000\
+2020-02-20 14:46:18 WARNING   Folder Temp already exists for 8-00466_8-00466_MR_2018-04-24_144639_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n176__00000
+2020-02-20 14:46:18 INFO     currently processing 8-00468_8-00468_MR_2018-03-15_150818_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:46:18 WARNING  2020-02-20 The folder name had an invalid character, changing name to:
+X:\RESEARCH\CATE_SHARE\CATE_Public\UM-Data\AIM_MRI\8-00468_8-00468_MR_2018-03-15_150818_Research^^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000\
+2020-02-20 14:46:18 WARNING   Folder Temp already exists for 8-00468_8-00468_MR_2018-03-15_150818_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:46:18 INFO     currently processing 8-00478_8-00478_MR_2018-07-19_101544_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:46:18 WARNING  2020-02-20 The folder name had an invalid character, changing name to:
+X:\RESEARCH\CATE_SHARE\CATE_Public\UM-Data\AIM_MRI\8-00478_8-00478_MR_2018-07-19_101544_Research^^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000\
+2020-02-20 14:46:18 WARNING   Folder Temp already exists for 8-00478_8-00478_MR_2018-07-19_101544_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:46:18 INFO     currently processing 8-00484_8-00484_MR_2018-09-04_165146_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:46:18 WARNING  2020-02-20 The folder name had an invalid character, changing name to:
+X:\RESEARCH\CATE_SHARE\CATE_Public\UM-Data\AIM_MRI\8-00484_8-00484_MR_2018-09-04_165146_Research^^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000\
+2020-02-20 14:46:18 WARNING   Folder Temp already exists for 8-00484_8-00484_MR_2018-09-04_165146_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:46:18 INFO     currently processing 8-00490_8-00490_MR_2018-08-21_194225_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:46:18 WARNING  2020-02-20 The folder name had an invalid character, changing name to:
+X:\RESEARCH\CATE_SHARE\CATE_Public\UM-Data\AIM_MRI\8-00490_8-00490_MR_2018-08-21_194225_Research^^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000\
+2020-02-20 14:46:18 WARNING   Folder Temp already exists for 8-00490_8-00490_MR_2018-08-21_194225_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:46:18 INFO     currently processing 8-00491_8-00491_MR_2018-08-21_204507_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:46:18 WARNING  2020-02-20 The folder name had an invalid character, changing name to:
+X:\RESEARCH\CATE_SHARE\CATE_Public\UM-Data\AIM_MRI\8-00491_8-00491_MR_2018-08-21_204507_Research^^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000\
+2020-02-20 14:46:18 WARNING   Folder Temp already exists for 8-00491_8-00491_MR_2018-08-21_204507_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:46:18 INFO     currently processing 8-00492_8-00492_MR_2018-08-21_170544_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:46:18 WARNING  2020-02-20 The folder name had an invalid character, changing name to:
+X:\RESEARCH\CATE_SHARE\CATE_Public\UM-Data\AIM_MRI\8-00492_8-00492_MR_2018-08-21_170544_Research^^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000\
+2020-02-20 14:46:18 WARNING   Folder Temp already exists for 8-00492_8-00492_MR_2018-08-21_170544_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:46:18 INFO     currently processing 8-00493_8-00493_MR_2018-08-28_124727_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:46:18 WARNING  2020-02-20 The folder name had an invalid character, changing name to:
+X:\RESEARCH\CATE_SHARE\CATE_Public\UM-Data\AIM_MRI\8-00493_8-00493_MR_2018-08-28_124727_Research^^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000\
+2020-02-20 14:46:18 WARNING   Folder Temp already exists for 8-00493_8-00493_MR_2018-08-28_124727_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:46:18 INFO     currently processing 9-00462_9-00462_MR_2018-01-18_153942_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:46:18 WARNING  2020-02-20 The folder name had an invalid character, changing name to:
+X:\RESEARCH\CATE_SHARE\CATE_Public\UM-Data\AIM_MRI\9-00462_9-00462_MR_2018-01-18_153942_Research^^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000\
+2020-02-20 14:46:18 WARNING   Folder Temp already exists for 9-00462_9-00462_MR_2018-01-18_153942_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:46:18 INFO     currently processing 9-00464_9-00464_MR_2018-01-30_140142_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n160__00000
+2020-02-20 14:46:18 WARNING  2020-02-20 The folder name had an invalid character, changing name to:
+X:\RESEARCH\CATE_SHARE\CATE_Public\UM-Data\AIM_MRI\9-00464_9-00464_MR_2018-01-30_140142_Research^^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n160__00000\
+2020-02-20 14:46:18 WARNING   Folder Temp already exists for 9-00464_9-00464_MR_2018-01-30_140142_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n160__00000
+2020-02-20 14:46:18 INFO     currently processing 9-00465_9-00465_MR_2018-03-27_142520_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:46:18 WARNING  2020-02-20 The folder name had an invalid character, changing name to:
+X:\RESEARCH\CATE_SHARE\CATE_Public\UM-Data\AIM_MRI\9-00465_9-00465_MR_2018-03-27_142520_Research^^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000\
+2020-02-20 14:46:18 WARNING   Folder Temp already exists for 9-00465_9-00465_MR_2018-03-27_142520_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:46:18 INFO     currently processing 9-00467_9-00467_MR_2018-03-08_145843_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:46:18 WARNING  2020-02-20 The folder name had an invalid character, changing name to:
+X:\RESEARCH\CATE_SHARE\CATE_Public\UM-Data\AIM_MRI\9-00467_9-00467_MR_2018-03-08_145843_Research^^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000\
+2020-02-20 14:46:18 WARNING   Folder Temp already exists for 9-00467_9-00467_MR_2018-03-08_145843_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:46:18 INFO     currently processing 9-00469_9-00469_MR_2018-11-05_134845_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:46:18 WARNING  2020-02-20 The folder name had an invalid character, changing name to:
+X:\RESEARCH\CATE_SHARE\CATE_Public\UM-Data\AIM_MRI\9-00469_9-00469_MR_2018-11-05_134845_Research^^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000\
+2020-02-20 14:46:18 WARNING   Folder Temp already exists for 9-00469_9-00469_MR_2018-11-05_134845_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:46:18 INFO     currently processing 9-00470_9-00470_MR_2018-10-22_122103_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:46:18 WARNING  2020-02-20 The folder name had an invalid character, changing name to:
+X:\RESEARCH\CATE_SHARE\CATE_Public\UM-Data\AIM_MRI\9-00470_9-00470_MR_2018-10-22_122103_Research^^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000\
+2020-02-20 14:46:18 WARNING   Folder Temp already exists for 9-00470_9-00470_MR_2018-10-22_122103_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:46:18 INFO     currently processing 9-00471_9-00471_MR_2018-03-20_142057_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:46:18 WARNING  2020-02-20 The folder name had an invalid character, changing name to:
+X:\RESEARCH\CATE_SHARE\CATE_Public\UM-Data\AIM_MRI\9-00471_9-00471_MR_2018-03-20_142057_Research^^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000\
+2020-02-20 14:46:18 WARNING   Folder Temp already exists for 9-00471_9-00471_MR_2018-03-20_142057_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:46:18 INFO     currently processing 9-00473_9-00473_MR_2018-08-07_140551_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:46:18 WARNING  2020-02-20 The folder name had an invalid character, changing name to:
+X:\RESEARCH\CATE_SHARE\CATE_Public\UM-Data\AIM_MRI\9-00473_9-00473_MR_2018-08-07_140551_Research^^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000\
+2020-02-20 14:46:18 WARNING   Folder Temp already exists for 9-00473_9-00473_MR_2018-08-07_140551_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:46:18 INFO     currently processing 9-00474_9-00474_MR_2018-06-19_141821_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:46:18 WARNING  2020-02-20 The folder name had an invalid character, changing name to:
+X:\RESEARCH\CATE_SHARE\CATE_Public\UM-Data\AIM_MRI\9-00474_9-00474_MR_2018-06-19_141821_Research^^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000\
+2020-02-20 14:46:18 WARNING   Folder Temp already exists for 9-00474_9-00474_MR_2018-06-19_141821_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:46:18 INFO     currently processing 9-00477_9-00477_MR_2018-07-17_100033_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:46:18 WARNING  2020-02-20 The folder name had an invalid character, changing name to:
+X:\RESEARCH\CATE_SHARE\CATE_Public\UM-Data\AIM_MRI\9-00477_9-00477_MR_2018-07-17_100033_Research^^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000\
+2020-02-20 14:46:18 WARNING   Folder Temp already exists for 9-00477_9-00477_MR_2018-07-17_100033_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:46:18 INFO     currently processing 9-00479_9-00479_MR_2018-10-11_104838_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:46:18 WARNING  2020-02-20 The folder name had an invalid character, changing name to:
+X:\RESEARCH\CATE_SHARE\CATE_Public\UM-Data\AIM_MRI\9-00479_9-00479_MR_2018-10-11_104838_Research^^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000\
+2020-02-20 14:46:18 WARNING   Folder Temp already exists for 9-00479_9-00479_MR_2018-10-11_104838_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:46:18 INFO     currently processing 9-00480_9-00480_MR_2018-09-19_153208_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:46:18 WARNING  2020-02-20 The folder name had an invalid character, changing name to:
+X:\RESEARCH\CATE_SHARE\CATE_Public\UM-Data\AIM_MRI\9-00480_9-00480_MR_2018-09-19_153208_Research^^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000\
+2020-02-20 14:46:18 WARNING   Folder Temp already exists for 9-00480_9-00480_MR_2018-09-19_153208_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:46:18 INFO     currently processing 9-00482_9-00482_MR_2018-05-02_180554_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:46:18 WARNING  2020-02-20 The folder name had an invalid character, changing name to:
+X:\RESEARCH\CATE_SHARE\CATE_Public\UM-Data\AIM_MRI\9-00482_9-00482_MR_2018-05-02_180554_Research^^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000\
+2020-02-20 14:46:18 WARNING   Folder Temp already exists for 9-00482_9-00482_MR_2018-05-02_180554_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:46:18 INFO     currently processing 9-00483_9-00483_MR_2018-04-26_073544_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:46:18 WARNING  2020-02-20 The folder name had an invalid character, changing name to:
+X:\RESEARCH\CATE_SHARE\CATE_Public\UM-Data\AIM_MRI\9-00483_9-00483_MR_2018-04-26_073544_Research^^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000\
+2020-02-20 14:46:18 WARNING   Folder Temp already exists for 9-00483_9-00483_MR_2018-04-26_073544_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:46:18 INFO     currently processing 9-00489_9-00489_MR_2018-08-15_115936_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:46:18 WARNING  2020-02-20 The folder name had an invalid character, changing name to:
+X:\RESEARCH\CATE_SHARE\CATE_Public\UM-Data\AIM_MRI\9-00489_9-00489_MR_2018-08-15_115936_Research^^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000\
+2020-02-20 14:46:18 WARNING   Folder Temp already exists for 9-00489_9-00489_MR_2018-08-15_115936_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:46:18 INFO     currently processing 9-00496_9-00496_MR_2018-08-14_120732_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:46:18 WARNING  2020-02-20 The folder name had an invalid character, changing name to:
+X:\RESEARCH\CATE_SHARE\CATE_Public\UM-Data\AIM_MRI\9-00496_9-00496_MR_2018-08-14_120732_Research^^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000\
+2020-02-20 14:46:18 WARNING   Folder Temp already exists for 9-00496_9-00496_MR_2018-08-14_120732_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:46:18 INFO     currently processing 9-00501_9-00501_MR_2018-09-05_160437_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:46:18 WARNING  2020-02-20 The folder name had an invalid character, changing name to:
+X:\RESEARCH\CATE_SHARE\CATE_Public\UM-Data\AIM_MRI\9-00501_9-00501_MR_2018-09-05_160437_Research^^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000\
+2020-02-20 14:46:18 WARNING   Folder Temp already exists for 9-00501_9-00501_MR_2018-09-05_160437_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:46:18 INFO     currently processing 9-00510_9-00510_MR_2018-10-17_120410_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:46:18 WARNING  2020-02-20 The folder name had an invalid character, changing name to:
+X:\RESEARCH\CATE_SHARE\CATE_Public\UM-Data\AIM_MRI\9-00510_9-00510_MR_2018-10-17_120410_Research^^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000\
+2020-02-20 14:46:18 WARNING   Folder Temp already exists for 9-00510_9-00510_MR_2018-10-17_120410_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:46:18 INFO     currently processing 9-00518_9-00518_MR_2018-10-25_095228_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:46:18 WARNING  2020-02-20 The folder name had an invalid character, changing name to:
+X:\RESEARCH\CATE_SHARE\CATE_Public\UM-Data\AIM_MRI\9-00518_9-00518_MR_2018-10-25_095228_Research^^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000\
+2020-02-20 14:46:18 WARNING   Folder Temp already exists for 9-00518_9-00518_MR_2018-10-25_095228_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:46:18 INFO     currently processing 9-00531_9-00531_MR_2019-03-26_131725_Research^MR2015.01.DetectPAD_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:46:18 WARNING  2020-02-20 The folder name had an invalid character, changing name to:
+X:\RESEARCH\CATE_SHARE\CATE_Public\UM-Data\AIM_MRI\9-00531_9-00531_MR_2019-03-26_131725_Research^^MR2015.01.DetectPAD_t1.mprage.sag.p2.iso.1mm_n192__00000\
+2020-02-20 14:46:18 WARNING   Folder Temp already exists for 9-00531_9-00531_MR_2019-03-26_131725_Research^MR2015.01.DetectPAD_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:46:18 INFO     currently processing 9-00542_9-00542_MR_2019-08-05_105708_Research^MR2015.01.DetectPAD_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:46:18 WARNING  2020-02-20 The folder name had an invalid character, changing name to:
+X:\RESEARCH\CATE_SHARE\CATE_Public\UM-Data\AIM_MRI\9-00542_9-00542_MR_2019-08-05_105708_Research^^MR2015.01.DetectPAD_t1.mprage.sag.p2.iso.1mm_n192__00000\
+2020-02-20 14:46:18 WARNING   Folder Temp already exists for 9-00542_9-00542_MR_2019-08-05_105708_Research^MR2015.01.DetectPAD_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:46:18 INFO     currently processing 9-00569_9-00569_MR_2019-03-27_155611_Research^MR2015.01.DetectPAD_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:46:18 WARNING  2020-02-20 The folder name had an invalid character, changing name to:
+X:\RESEARCH\CATE_SHARE\CATE_Public\UM-Data\AIM_MRI\9-00569_9-00569_MR_2019-03-27_155611_Research^^MR2015.01.DetectPAD_t1.mprage.sag.p2.iso.1mm_n192__00000\
+2020-02-20 14:46:18 WARNING   Folder Temp already exists for 9-00569_9-00569_MR_2019-03-27_155611_Research^MR2015.01.DetectPAD_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:46:18 INFO     currently processing 9-00571_9-00571_MR_2019-02-12_132151_Research^MR2015.01.DetectPAD_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:46:18 WARNING  2020-02-20 The folder name had an invalid character, changing name to:
+X:\RESEARCH\CATE_SHARE\CATE_Public\UM-Data\AIM_MRI\9-00571_9-00571_MR_2019-02-12_132151_Research^^MR2015.01.DetectPAD_t1.mprage.sag.p2.iso.1mm_n192__00000\
+2020-02-20 14:46:18 WARNING   Folder Temp already exists for 9-00571_9-00571_MR_2019-02-12_132151_Research^MR2015.01.DetectPAD_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:46:18 INFO     currently processing 9-00601_9-00601_MR_2019-03-07_132817_Research^MR2015.01.DetectPAD_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:46:18 WARNING  2020-02-20 The folder name had an invalid character, changing name to:
+X:\RESEARCH\CATE_SHARE\CATE_Public\UM-Data\AIM_MRI\9-00601_9-00601_MR_2019-03-07_132817_Research^^MR2015.01.DetectPAD_t1.mprage.sag.p2.iso.1mm_n192__00000\
+2020-02-20 14:46:18 WARNING   Folder Temp already exists for 9-00601_9-00601_MR_2019-03-07_132817_Research^MR2015.01.DetectPAD_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:46:18 INFO     currently processing 9-00608_9-00608_MR_2019-04-25_134123_Research^MR2015.01.DetectPAD_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:46:18 WARNING  2020-02-20 The folder name had an invalid character, changing name to:
+X:\RESEARCH\CATE_SHARE\CATE_Public\UM-Data\AIM_MRI\9-00608_9-00608_MR_2019-04-25_134123_Research^^MR2015.01.DetectPAD_t1.mprage.sag.p2.iso.1mm_n192__00000\
+2020-02-20 14:46:18 WARNING   Folder Temp already exists for 9-00608_9-00608_MR_2019-04-25_134123_Research^MR2015.01.DetectPAD_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:46:18 INFO     currently processing 9-00631_9-00631_MR_2019-07-23_174544_Research^MR2015.01.DetectPAD_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:46:18 WARNING  2020-02-20 The folder name had an invalid character, changing name to:
+X:\RESEARCH\CATE_SHARE\CATE_Public\UM-Data\AIM_MRI\9-00631_9-00631_MR_2019-07-23_174544_Research^^MR2015.01.DetectPAD_t1.mprage.sag.p2.iso.1mm_n192__00000\
+2020-02-20 14:46:18 WARNING   Folder Temp already exists for 9-00631_9-00631_MR_2019-07-23_174544_Research^MR2015.01.DetectPAD_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:46:18 INFO     currently processing 9-00652_9-00652_MR_2019-08-27_132423_Research^MR2015.01.DetectPAD_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:46:18 WARNING  2020-02-20 The folder name had an invalid character, changing name to:
+X:\RESEARCH\CATE_SHARE\CATE_Public\UM-Data\AIM_MRI\9-00652_9-00652_MR_2019-08-27_132423_Research^^MR2015.01.DetectPAD_t1.mprage.sag.p2.iso.1mm_n192__00000\
+2020-02-20 14:46:18 WARNING   Folder Temp already exists for 9-00652_9-00652_MR_2019-08-27_132423_Research^MR2015.01.DetectPAD_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:46:18 INFO     currently processing 9-00669_9-00669_MR_2019-10-24_082338_Research^MR2019.03.AIM.Longitudenal.Study_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:46:18 WARNING  2020-02-20 The folder name had an invalid character, changing name to:
+X:\RESEARCH\CATE_SHARE\CATE_Public\UM-Data\AIM_MRI\9-00669_9-00669_MR_2019-10-24_082338_Research^^MR2019.03.AIM.Longitudenal.Study_t1.mprage.sag.p2.iso.1mm_n192__00000\
+2020-02-20 14:46:18 WARNING   Folder Temp already exists for 9-00669_9-00669_MR_2019-10-24_082338_Research^MR2019.03.AIM.Longitudenal.Study_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:46:18 INFO     currently processing 9-00678_9-00678_MR_2019-08-22_152336_Research^MR2015.01.DetectPAD_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:46:18 WARNING  2020-02-20 The folder name had an invalid character, changing name to:
+X:\RESEARCH\CATE_SHARE\CATE_Public\UM-Data\AIM_MRI\9-00678_9-00678_MR_2019-08-22_152336_Research^^MR2015.01.DetectPAD_t1.mprage.sag.p2.iso.1mm_n192__00000\
+2020-02-20 14:46:18 WARNING   Folder Temp already exists for 9-00678_9-00678_MR_2019-08-22_152336_Research^MR2015.01.DetectPAD_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:46:18 INFO     currently processing 9-00680_9-00680_MR_2019-09-13_151600_Research^MR2019.03.AIM.Longitudenal.Study_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:46:18 WARNING  2020-02-20 The folder name had an invalid character, changing name to:
+X:\RESEARCH\CATE_SHARE\CATE_Public\UM-Data\AIM_MRI\9-00680_9-00680_MR_2019-09-13_151600_Research^^MR2019.03.AIM.Longitudenal.Study_t1.mprage.sag.p2.iso.1mm_n192__00000\
+2020-02-20 14:46:18 WARNING   Folder Temp already exists for 9-00680_9-00680_MR_2019-09-13_151600_Research^MR2019.03.AIM.Longitudenal.Study_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:46:18 INFO     currently processing 9-00681_9-00681_MR_2019-09-13_162746_Research^MR2019.03.AIM.Longitudenal.Study_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:46:18 WARNING  2020-02-20 The folder name had an invalid character, changing name to:
+X:\RESEARCH\CATE_SHARE\CATE_Public\UM-Data\AIM_MRI\9-00681_9-00681_MR_2019-09-13_162746_Research^^MR2019.03.AIM.Longitudenal.Study_t1.mprage.sag.p2.iso.1mm_n192__00000\
+2020-02-20 14:46:18 WARNING   Folder Temp already exists for 9-00681_9-00681_MR_2019-09-13_162746_Research^MR2019.03.AIM.Longitudenal.Study_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:46:18 INFO     currently processing AIM-00502
+2020-02-20 14:46:19 WARNING   Folder Temp already exists for AIM-00502
+2020-02-20 14:46:19 INFO     currently processing AIM-00506
+2020-02-20 14:46:21 WARNING   Folder Temp already exists for AIM-00506
+2020-02-20 14:46:21 INFO     currently processing AIM-00507
+2020-02-20 14:46:22 WARNING   Folder Temp already exists for AIM-00507
+2020-02-20 14:46:22 INFO     currently processing AIM-00508
+2020-02-20 14:46:23 WARNING   Folder Temp already exists for AIM-00508
+2020-02-20 14:46:23 INFO     currently processing AIM-00509
+2020-02-20 14:46:24 WARNING   Folder Temp already exists for AIM-00509
+2020-02-20 14:46:24 INFO     currently processing AIM-00511
+2020-02-20 14:46:25 WARNING   Folder Temp already exists for AIM-00511
+2020-02-20 14:46:25 INFO     currently processing AIM-00512
+2020-02-20 14:46:26 WARNING   Folder Temp already exists for AIM-00512
+2020-02-20 14:46:26 INFO     currently processing AIM-00513
+2020-02-20 14:46:27 WARNING   Folder Temp already exists for AIM-00513
+2020-02-20 14:46:27 INFO     currently processing AIM-00514
+2020-02-20 14:46:29 WARNING   Folder Temp already exists for AIM-00514
+2020-02-20 14:46:29 INFO     currently processing AIM-00515
+2020-02-20 14:46:30 WARNING   Folder Temp already exists for AIM-00515
+2020-02-20 14:46:30 INFO     currently processing AIM-00524
+2020-02-20 14:46:31 WARNING   Folder Temp already exists for AIM-00524
+2020-02-20 14:46:31 INFO     currently processing AIM-00526
+2020-02-20 14:46:32 WARNING   Folder Temp already exists for AIM-00526
+2020-02-20 14:46:32 INFO     currently processing AIM-00528
+2020-02-20 14:46:34 WARNING   Folder Temp already exists for AIM-00528
+2020-02-20 14:46:34 INFO     currently processing AIM-00529
+2020-02-20 14:46:35 WARNING   Folder Temp already exists for AIM-00529
+2020-02-20 14:46:35 INFO     currently processing AIM-00530
+2020-02-20 14:46:36 WARNING   Folder Temp already exists for AIM-00530
+2020-02-20 14:46:36 INFO     currently processing AIM-00532
+2020-02-20 14:46:37 WARNING   Folder Temp already exists for AIM-00532
+2020-02-20 14:46:37 INFO     currently processing AIM-00533
+2020-02-20 14:46:39 WARNING   Folder Temp already exists for AIM-00533
+2020-02-20 14:46:39 INFO     currently processing AIM-00536
+2020-02-20 14:46:40 WARNING   Folder Temp already exists for AIM-00536
+2020-02-20 14:46:40 INFO     currently processing AIM-00538
+2020-02-20 14:46:41 WARNING   Folder Temp already exists for AIM-00538
+2020-02-20 14:46:41 INFO     currently processing AIM-00539
+2020-02-20 14:46:42 WARNING   Folder Temp already exists for AIM-00539
+2020-02-20 14:46:42 INFO     currently processing AIM-00540
+2020-02-20 14:46:43 WARNING   Folder Temp already exists for AIM-00540
+2020-02-20 14:46:43 INFO     currently processing AIM-00544
+2020-02-20 14:46:45 WARNING   Folder Temp already exists for AIM-00544
+2020-02-20 14:46:45 INFO     currently processing AIM-00545
+2020-02-20 14:46:46 WARNING   Folder Temp already exists for AIM-00545
+2020-02-20 14:46:46 INFO     currently processing AIM-00546
+2020-02-20 14:46:47 WARNING   Folder Temp already exists for AIM-00546
+2020-02-20 14:46:47 INFO     currently processing AIM-00548
+2020-02-20 14:46:48 WARNING   Folder Temp already exists for AIM-00548
+2020-02-20 14:46:48 INFO     currently processing AIM-00549
+2020-02-20 14:46:50 WARNING   Folder Temp already exists for AIM-00549
+2020-02-20 14:46:50 INFO     currently processing AIM-00550
+2020-02-20 14:46:51 WARNING   Folder Temp already exists for AIM-00550
+2020-02-20 14:46:51 INFO     currently processing AIM-00553
+2020-02-20 14:46:52 WARNING   Folder Temp already exists for AIM-00553
+2020-02-20 14:46:52 INFO     currently processing AIM-00561
+2020-02-20 14:46:53 WARNING   Folder Temp already exists for AIM-00561
+2020-02-20 14:46:53 INFO     currently processing AIM-00565
+2020-02-20 14:46:56 WARNING   Folder Temp already exists for AIM-00565
+2020-02-20 14:46:56 INFO     currently processing AIM-00573
+2020-02-20 14:46:58 WARNING   Folder Temp already exists for AIM-00573
+2020-02-20 14:46:58 INFO     currently processing AIM-00575
+2020-02-20 14:47:01 WARNING   Folder Temp already exists for AIM-00575
+2020-02-20 14:47:01 INFO     currently processing AIM-00577
+2020-02-20 14:47:04 WARNING   Folder Temp already exists for AIM-00577
+2020-02-20 14:47:04 INFO     currently processing AIM-00579
+2020-02-20 14:47:06 WARNING   Folder Temp already exists for AIM-00579
+2020-02-20 14:47:06 INFO     currently processing AIM-00581
+2020-02-20 14:47:09 WARNING   Folder Temp already exists for AIM-00581
+2020-02-20 14:47:09 INFO     currently processing AIM-00585
+2020-02-20 14:47:11 WARNING   Folder Temp already exists for AIM-00585
+2020-02-20 14:47:11 INFO     currently processing AIM-00587
+2020-02-20 14:47:14 WARNING   Folder Temp already exists for AIM-00587
+2020-02-20 14:47:14 INFO     currently processing AIM-00589
+2020-02-20 14:47:16 WARNING   Folder Temp already exists for AIM-00589
+2020-02-20 14:47:16 INFO     currently processing AIM-00593
+2020-02-20 14:47:19 WARNING   Folder Temp already exists for AIM-00593
+2020-02-20 14:47:19 INFO     currently processing AIM-00595
+2020-02-20 14:47:22 WARNING   Folder Temp already exists for AIM-00595
+2020-02-20 14:47:22 INFO     currently processing AIM-00603
+2020-02-20 14:47:24 WARNING   Folder Temp already exists for AIM-00603
+2020-02-20 14:47:24 INFO     currently processing AIM-00606
+2020-02-20 14:47:27 WARNING   Folder Temp already exists for AIM-00606
+2020-02-20 14:47:27 INFO     currently processing AIM-00609
+2020-02-20 14:47:30 WARNING   Folder Temp already exists for AIM-00609
+2020-02-20 14:47:30 INFO     currently processing AIM-00611
+2020-02-20 14:47:32 WARNING   Folder Temp already exists for AIM-00611
+2020-02-20 14:47:32 INFO     currently processing AIM-00612
+2020-02-20 14:47:35 WARNING   Folder Temp already exists for AIM-00612
+2020-02-20 14:47:35 INFO     currently processing AIM-00613
+2020-02-20 14:47:37 WARNING   Folder Temp already exists for AIM-00613
+2020-02-20 14:47:37 INFO     currently processing AIM-00632
+2020-02-20 14:47:40 WARNING   Folder Temp already exists for AIM-00632
+2020-02-20 14:47:40 INFO     currently processing AIM-00633
+2020-02-20 14:47:43 WARNING   Folder Temp already exists for AIM-00633
+2020-02-20 14:47:43 INFO     currently processing AIM-00635
+2020-02-20 14:47:45 WARNING   Folder Temp already exists for AIM-00635
+2020-02-20 14:47:45 INFO     currently processing AIM-00636
+2020-02-20 14:47:48 WARNING   Folder Temp already exists for AIM-00636
+2020-02-20 14:47:48 INFO     currently processing AIM-00637
+2020-02-20 14:47:51 WARNING   Folder Temp already exists for AIM-00637
+2020-02-20 14:47:51 INFO     currently processing AIM-00643
+2020-02-20 14:47:53 WARNING   Folder Temp already exists for AIM-00643
+2020-02-20 14:47:53 INFO     currently processing AIM-00645
+2020-02-20 14:47:54 WARNING   Folder Temp already exists for AIM-00645
+2020-02-20 14:47:54 INFO     currently processing AIM-00646
+2020-02-20 14:47:56 WARNING   Folder Temp already exists for AIM-00646
+2020-02-20 14:47:56 INFO     currently processing AIM-00647
+2020-02-20 14:47:57 WARNING   Folder Temp already exists for AIM-00647
+2020-02-20 14:47:57 INFO     currently processing AIM-00648
+2020-02-20 14:47:58 WARNING   Folder Temp already exists for AIM-00648
+2020-02-20 14:47:58 INFO     currently processing AIM-00649
+2020-02-20 14:48:00 WARNING   Folder Temp already exists for AIM-00649
+2020-02-20 14:48:00 INFO     currently processing AIM-00651
+2020-02-20 14:48:01 WARNING   Folder Temp already exists for AIM-00651
+2020-02-20 14:48:01 INFO     currently processing AIM-00654
+2020-02-20 14:48:03 WARNING   Folder Temp already exists for AIM-00654
+2020-02-20 14:48:03 INFO     currently processing AIM-00655
+2020-02-20 14:48:05 WARNING   Folder Temp already exists for AIM-00655
+2020-02-20 14:48:05 INFO     currently processing AIM-00656
+2020-02-20 14:48:06 WARNING   Folder Temp already exists for AIM-00656
+2020-02-20 14:48:06 INFO     currently processing AIM-00657
+2020-02-20 14:48:08 WARNING   Folder Temp already exists for AIM-00657
+2020-02-20 14:48:08 INFO     currently processing AIM-00660
+2020-02-20 14:48:11 WARNING   Folder Temp already exists for AIM-00660
+2020-02-20 14:48:11 INFO     currently processing AIM-00661
+2020-02-20 14:48:13 WARNING   Folder Temp already exists for AIM-00661
+2020-02-20 14:48:13 INFO     currently processing AIM-00662
+2020-02-20 14:48:16 WARNING   Folder Temp already exists for AIM-00662
+2020-02-20 14:48:16 INFO     currently processing AIM-00664
+2020-02-20 14:48:18 WARNING   Folder Temp already exists for AIM-00664
+2020-02-20 14:48:18 INFO     currently processing AIM-00665
+2020-02-20 14:48:21 WARNING   Folder Temp already exists for AIM-00665
+2020-02-20 14:48:21 INFO     currently processing AIM-00670
+2020-02-20 14:48:23 WARNING   Folder Temp already exists for AIM-00670
+2020-02-20 14:48:23 INFO     currently processing AIM-00675
+2020-02-20 14:48:26 WARNING   Folder Temp already exists for AIM-00675
+2020-02-20 14:48:26 INFO     currently processing AIM-00676
+2020-02-20 14:48:28 WARNING   Folder Temp already exists for AIM-00676
+2020-02-20 14:48:28 INFO     currently processing AIM-00683
+2020-02-20 14:48:31 WARNING   Folder Temp already exists for AIM-00683
+2020-02-20 14:48:31 INFO     currently processing AIM-00684
+2020-02-20 14:48:33 WARNING   Folder Temp already exists for AIM-00684
+2020-02-20 14:48:33 INFO     currently processing AIM-00686
+2020-02-20 14:48:36 WARNING   Folder Temp already exists for AIM-00686
+2020-02-20 14:48:36 INFO     currently processing AIM-00687
+2020-02-20 14:48:38 WARNING   Folder Temp already exists for AIM-00687
+2020-02-20 14:48:38 INFO     currently processing AIM-00689
+2020-02-20 14:48:41 WARNING   Folder Temp already exists for AIM-00689
+2020-02-20 14:48:41 INFO     currently processing AIM-00695
+2020-02-20 14:48:43 WARNING   Folder Temp already exists for AIM-00695
+2020-02-20 14:48:43 INFO     currently processing AIM-00697
+2020-02-20 14:48:45 WARNING   Folder Temp already exists for AIM-00697
+2020-02-20 14:48:45 INFO     currently processing AIM-00701
+2020-02-20 14:48:48 WARNING   Folder Temp already exists for AIM-00701
+2020-02-20 14:48:48 INFO     currently processing AIM-00704
+2020-02-20 14:48:51 WARNING   Folder Temp already exists for AIM-00704
+2020-02-20 14:48:51 INFO     currently processing AIM-00705
+2020-02-20 14:48:53 WARNING   Folder Temp already exists for AIM-00705
+2020-02-20 14:48:53 INFO     currently processing AIM-00714
+2020-02-20 14:48:55 WARNING   Folder Temp already exists for AIM-00714
+2020-02-20 14:48:55 INFO     currently processing AIM-00717
+2020-02-20 14:48:57 WARNING   Folder Temp already exists for AIM-00717
+2020-02-20 14:48:57 INFO     currently processing AIM-00724
+2020-02-20 14:49:00 WARNING   Folder Temp already exists for AIM-00724
+2020-02-20 14:49:00 INFO     currently processing AIM-00725
+2020-02-20 14:49:02 WARNING   Folder Temp already exists for AIM-00725
+2020-02-20 14:49:02 INFO     currently processing AIM-00726
+2020-02-20 14:49:05 WARNING   Folder Temp already exists for AIM-00726
+2020-02-20 14:49:05 INFO     currently processing AIM-00727
+2020-02-20 14:49:07 WARNING   Folder Temp already exists for AIM-00727
+2020-02-20 14:49:07 INFO     currently processing tempExport
+2020-02-20 14:49:07 WARNING   Folder Temp already exists for tempExport
+2020-02-20 14:50:27 INFO     Parent Directory is:
+X:\RESEARCH\CATE_SHARE\CATE_Public\UM-Data\AIM_MRI\
+2020-02-20 14:50:27 INFO     2020-02-20 List of Files Found:
+['8-00461_8-00461_MR_2018-01-18_174143_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000', '8-00466_8-00466_MR_2018-04-24_144639_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n176__00000', '8-00468_8-00468_MR_2018-03-15_150818_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000', '8-00478_8-00478_MR_2018-07-19_101544_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000', '8-00484_8-00484_MR_2018-09-04_165146_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000', '8-00490_8-00490_MR_2018-08-21_194225_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000', '8-00491_8-00491_MR_2018-08-21_204507_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000', '8-00492_8-00492_MR_2018-08-21_170544_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000', '8-00493_8-00493_MR_2018-08-28_124727_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000', '9-00462_9-00462_MR_2018-01-18_153942_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000', '9-00464_9-00464_MR_2018-01-30_140142_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n160__00000', '9-00465_9-00465_MR_2018-03-27_142520_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000', '9-00467_9-00467_MR_2018-03-08_145843_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000', '9-00469_9-00469_MR_2018-11-05_134845_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000', '9-00470_9-00470_MR_2018-10-22_122103_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000', '9-00471_9-00471_MR_2018-03-20_142057_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000', '9-00473_9-00473_MR_2018-08-07_140551_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000', '9-00474_9-00474_MR_2018-06-19_141821_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000', '9-00477_9-00477_MR_2018-07-17_100033_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000', '9-00479_9-00479_MR_2018-10-11_104838_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000', '9-00480_9-00480_MR_2018-09-19_153208_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000', '9-00482_9-00482_MR_2018-05-02_180554_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000', '9-00483_9-00483_MR_2018-04-26_073544_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000', '9-00489_9-00489_MR_2018-08-15_115936_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000', '9-00496_9-00496_MR_2018-08-14_120732_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000', '9-00501_9-00501_MR_2018-09-05_160437_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000', '9-00510_9-00510_MR_2018-10-17_120410_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000', '9-00518_9-00518_MR_2018-10-25_095228_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000', '9-00531_9-00531_MR_2019-03-26_131725_Research^MR2015.01.DetectPAD_t1.mprage.sag.p2.iso.1mm_n192__00000', '9-00542_9-00542_MR_2019-08-05_105708_Research^MR2015.01.DetectPAD_t1.mprage.sag.p2.iso.1mm_n192__00000', '9-00569_9-00569_MR_2019-03-27_155611_Research^MR2015.01.DetectPAD_t1.mprage.sag.p2.iso.1mm_n192__00000', '9-00571_9-00571_MR_2019-02-12_132151_Research^MR2015.01.DetectPAD_t1.mprage.sag.p2.iso.1mm_n192__00000', '9-00601_9-00601_MR_2019-03-07_132817_Research^MR2015.01.DetectPAD_t1.mprage.sag.p2.iso.1mm_n192__00000', '9-00608_9-00608_MR_2019-04-25_134123_Research^MR2015.01.DetectPAD_t1.mprage.sag.p2.iso.1mm_n192__00000', '9-00631_9-00631_MR_2019-07-23_174544_Research^MR2015.01.DetectPAD_t1.mprage.sag.p2.iso.1mm_n192__00000', '9-00652_9-00652_MR_2019-08-27_132423_Research^MR2015.01.DetectPAD_t1.mprage.sag.p2.iso.1mm_n192__00000', '9-00669_9-00669_MR_2019-10-24_082338_Research^MR2019.03.AIM.Longitudenal.Study_t1.mprage.sag.p2.iso.1mm_n192__00000', '9-00678_9-00678_MR_2019-08-22_152336_Research^MR2015.01.DetectPAD_t1.mprage.sag.p2.iso.1mm_n192__00000', '9-00680_9-00680_MR_2019-09-13_151600_Research^MR2019.03.AIM.Longitudenal.Study_t1.mprage.sag.p2.iso.1mm_n192__00000', '9-00681_9-00681_MR_2019-09-13_162746_Research^MR2019.03.AIM.Longitudenal.Study_t1.mprage.sag.p2.iso.1mm_n192__00000', 'AIM-00502', 'AIM-00506', 'AIM-00507', 'AIM-00508', 'AIM-00509', 'AIM-00511', 'AIM-00512', 'AIM-00513', 'AIM-00514', 'AIM-00515', 'AIM-00524', 'AIM-00526', 'AIM-00528', 'AIM-00529', 'AIM-00530', 'AIM-00532', 'AIM-00533', 'AIM-00536', 'AIM-00538', 'AIM-00539', 'AIM-00540', 'AIM-00544', 'AIM-00545', 'AIM-00546', 'AIM-00548', 'AIM-00549', 'AIM-00550', 'AIM-00553', 'AIM-00561', 'AIM-00565', 'AIM-00573', 'AIM-00575', 'AIM-00577', 'AIM-00579', 'AIM-00581', 'AIM-00585', 'AIM-00587', 'AIM-00589', 'AIM-00593', 'AIM-00595', 'AIM-00603', 'AIM-00606', 'AIM-00609', 'AIM-00611', 'AIM-00612', 'AIM-00613', 'AIM-00632', 'AIM-00633', 'AIM-00635', 'AIM-00636', 'AIM-00637', 'AIM-00643', 'AIM-00645', 'AIM-00646', 'AIM-00647', 'AIM-00648', 'AIM-00649', 'AIM-00651', 'AIM-00654', 'AIM-00655', 'AIM-00656', 'AIM-00657', 'AIM-00660', 'AIM-00661', 'AIM-00662', 'AIM-00664', 'AIM-00665', 'AIM-00670', 'AIM-00675', 'AIM-00676', 'AIM-00683', 'AIM-00684', 'AIM-00686', 'AIM-00687', 'AIM-00689', 'AIM-00695', 'AIM-00697', 'AIM-00701', 'AIM-00704', 'AIM-00705', 'AIM-00714', 'AIM-00717', 'AIM-00724', 'AIM-00725', 'AIM-00726', 'AIM-00727', 'tempExport']
+2020-02-20 14:50:27 INFO     currently processing 8-00461_8-00461_MR_2018-01-18_174143_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:50:27 ERROR    2020-02-20 The folder name had an invalid character, changing name to:
+X:\RESEARCH\CATE_SHARE\CATE_Public\UM-Data\AIM_MRI\8-00461_8-00461_MR_2018-01-18_174143_Research^^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000\
+2020-02-20 14:50:27 ERROR     Folder Temp already exists for 8-00461_8-00461_MR_2018-01-18_174143_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:50:27 INFO     currently processing 8-00466_8-00466_MR_2018-04-24_144639_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n176__00000
+2020-02-20 14:50:27 ERROR    2020-02-20 The folder name had an invalid character, changing name to:
+X:\RESEARCH\CATE_SHARE\CATE_Public\UM-Data\AIM_MRI\8-00466_8-00466_MR_2018-04-24_144639_Research^^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n176__00000\
+2020-02-20 14:50:27 ERROR     Folder Temp already exists for 8-00466_8-00466_MR_2018-04-24_144639_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n176__00000
+2020-02-20 14:50:27 INFO     currently processing 8-00468_8-00468_MR_2018-03-15_150818_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:50:27 ERROR    2020-02-20 The folder name had an invalid character, changing name to:
+X:\RESEARCH\CATE_SHARE\CATE_Public\UM-Data\AIM_MRI\8-00468_8-00468_MR_2018-03-15_150818_Research^^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000\
+2020-02-20 14:50:27 ERROR     Folder Temp already exists for 8-00468_8-00468_MR_2018-03-15_150818_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:50:27 INFO     currently processing 8-00478_8-00478_MR_2018-07-19_101544_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:50:27 ERROR    2020-02-20 The folder name had an invalid character, changing name to:
+X:\RESEARCH\CATE_SHARE\CATE_Public\UM-Data\AIM_MRI\8-00478_8-00478_MR_2018-07-19_101544_Research^^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000\
+2020-02-20 14:50:27 ERROR     Folder Temp already exists for 8-00478_8-00478_MR_2018-07-19_101544_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:50:27 INFO     currently processing 8-00484_8-00484_MR_2018-09-04_165146_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:50:27 ERROR    2020-02-20 The folder name had an invalid character, changing name to:
+X:\RESEARCH\CATE_SHARE\CATE_Public\UM-Data\AIM_MRI\8-00484_8-00484_MR_2018-09-04_165146_Research^^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000\
+2020-02-20 14:50:27 ERROR     Folder Temp already exists for 8-00484_8-00484_MR_2018-09-04_165146_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:50:27 INFO     currently processing 8-00490_8-00490_MR_2018-08-21_194225_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:50:27 ERROR    2020-02-20 The folder name had an invalid character, changing name to:
+X:\RESEARCH\CATE_SHARE\CATE_Public\UM-Data\AIM_MRI\8-00490_8-00490_MR_2018-08-21_194225_Research^^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000\
+2020-02-20 14:50:27 ERROR     Folder Temp already exists for 8-00490_8-00490_MR_2018-08-21_194225_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:50:27 INFO     currently processing 8-00491_8-00491_MR_2018-08-21_204507_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:50:27 ERROR    2020-02-20 The folder name had an invalid character, changing name to:
+X:\RESEARCH\CATE_SHARE\CATE_Public\UM-Data\AIM_MRI\8-00491_8-00491_MR_2018-08-21_204507_Research^^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000\
+2020-02-20 14:50:27 ERROR     Folder Temp already exists for 8-00491_8-00491_MR_2018-08-21_204507_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:50:27 INFO     currently processing 8-00492_8-00492_MR_2018-08-21_170544_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:50:27 ERROR    2020-02-20 The folder name had an invalid character, changing name to:
+X:\RESEARCH\CATE_SHARE\CATE_Public\UM-Data\AIM_MRI\8-00492_8-00492_MR_2018-08-21_170544_Research^^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000\
+2020-02-20 14:50:27 ERROR     Folder Temp already exists for 8-00492_8-00492_MR_2018-08-21_170544_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:50:27 INFO     currently processing 8-00493_8-00493_MR_2018-08-28_124727_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:50:27 ERROR    2020-02-20 The folder name had an invalid character, changing name to:
+X:\RESEARCH\CATE_SHARE\CATE_Public\UM-Data\AIM_MRI\8-00493_8-00493_MR_2018-08-28_124727_Research^^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000\
+2020-02-20 14:50:27 ERROR     Folder Temp already exists for 8-00493_8-00493_MR_2018-08-28_124727_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:50:27 INFO     currently processing 9-00462_9-00462_MR_2018-01-18_153942_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:50:27 ERROR    2020-02-20 The folder name had an invalid character, changing name to:
+X:\RESEARCH\CATE_SHARE\CATE_Public\UM-Data\AIM_MRI\9-00462_9-00462_MR_2018-01-18_153942_Research^^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000\
+2020-02-20 14:50:27 ERROR     Folder Temp already exists for 9-00462_9-00462_MR_2018-01-18_153942_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:50:27 INFO     currently processing 9-00464_9-00464_MR_2018-01-30_140142_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n160__00000
+2020-02-20 14:50:27 ERROR    2020-02-20 The folder name had an invalid character, changing name to:
+X:\RESEARCH\CATE_SHARE\CATE_Public\UM-Data\AIM_MRI\9-00464_9-00464_MR_2018-01-30_140142_Research^^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n160__00000\
+2020-02-20 14:50:27 ERROR     Folder Temp already exists for 9-00464_9-00464_MR_2018-01-30_140142_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n160__00000
+2020-02-20 14:50:27 INFO     currently processing 9-00465_9-00465_MR_2018-03-27_142520_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:50:27 ERROR    2020-02-20 The folder name had an invalid character, changing name to:
+X:\RESEARCH\CATE_SHARE\CATE_Public\UM-Data\AIM_MRI\9-00465_9-00465_MR_2018-03-27_142520_Research^^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000\
+2020-02-20 14:50:27 ERROR     Folder Temp already exists for 9-00465_9-00465_MR_2018-03-27_142520_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:50:27 INFO     currently processing 9-00467_9-00467_MR_2018-03-08_145843_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:50:27 ERROR    2020-02-20 The folder name had an invalid character, changing name to:
+X:\RESEARCH\CATE_SHARE\CATE_Public\UM-Data\AIM_MRI\9-00467_9-00467_MR_2018-03-08_145843_Research^^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000\
+2020-02-20 14:50:27 ERROR     Folder Temp already exists for 9-00467_9-00467_MR_2018-03-08_145843_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:50:27 INFO     currently processing 9-00469_9-00469_MR_2018-11-05_134845_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:50:27 ERROR    2020-02-20 The folder name had an invalid character, changing name to:
+X:\RESEARCH\CATE_SHARE\CATE_Public\UM-Data\AIM_MRI\9-00469_9-00469_MR_2018-11-05_134845_Research^^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000\
+2020-02-20 14:50:27 ERROR     Folder Temp already exists for 9-00469_9-00469_MR_2018-11-05_134845_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:50:27 INFO     currently processing 9-00470_9-00470_MR_2018-10-22_122103_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:50:27 ERROR    2020-02-20 The folder name had an invalid character, changing name to:
+X:\RESEARCH\CATE_SHARE\CATE_Public\UM-Data\AIM_MRI\9-00470_9-00470_MR_2018-10-22_122103_Research^^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000\
+2020-02-20 14:50:27 ERROR     Folder Temp already exists for 9-00470_9-00470_MR_2018-10-22_122103_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:50:27 INFO     currently processing 9-00471_9-00471_MR_2018-03-20_142057_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:50:27 ERROR    2020-02-20 The folder name had an invalid character, changing name to:
+X:\RESEARCH\CATE_SHARE\CATE_Public\UM-Data\AIM_MRI\9-00471_9-00471_MR_2018-03-20_142057_Research^^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000\
+2020-02-20 14:50:27 ERROR     Folder Temp already exists for 9-00471_9-00471_MR_2018-03-20_142057_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:50:27 INFO     currently processing 9-00473_9-00473_MR_2018-08-07_140551_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:50:27 ERROR    2020-02-20 The folder name had an invalid character, changing name to:
+X:\RESEARCH\CATE_SHARE\CATE_Public\UM-Data\AIM_MRI\9-00473_9-00473_MR_2018-08-07_140551_Research^^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000\
+2020-02-20 14:50:27 ERROR     Folder Temp already exists for 9-00473_9-00473_MR_2018-08-07_140551_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:50:27 INFO     currently processing 9-00474_9-00474_MR_2018-06-19_141821_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:50:27 ERROR    2020-02-20 The folder name had an invalid character, changing name to:
+X:\RESEARCH\CATE_SHARE\CATE_Public\UM-Data\AIM_MRI\9-00474_9-00474_MR_2018-06-19_141821_Research^^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000\
+2020-02-20 14:50:27 ERROR     Folder Temp already exists for 9-00474_9-00474_MR_2018-06-19_141821_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:50:27 INFO     currently processing 9-00477_9-00477_MR_2018-07-17_100033_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:50:27 ERROR    2020-02-20 The folder name had an invalid character, changing name to:
+X:\RESEARCH\CATE_SHARE\CATE_Public\UM-Data\AIM_MRI\9-00477_9-00477_MR_2018-07-17_100033_Research^^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000\
+2020-02-20 14:50:27 ERROR     Folder Temp already exists for 9-00477_9-00477_MR_2018-07-17_100033_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:50:27 INFO     currently processing 9-00479_9-00479_MR_2018-10-11_104838_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:50:27 ERROR    2020-02-20 The folder name had an invalid character, changing name to:
+X:\RESEARCH\CATE_SHARE\CATE_Public\UM-Data\AIM_MRI\9-00479_9-00479_MR_2018-10-11_104838_Research^^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000\
+2020-02-20 14:50:27 ERROR     Folder Temp already exists for 9-00479_9-00479_MR_2018-10-11_104838_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:50:27 INFO     currently processing 9-00480_9-00480_MR_2018-09-19_153208_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:50:27 ERROR    2020-02-20 The folder name had an invalid character, changing name to:
+X:\RESEARCH\CATE_SHARE\CATE_Public\UM-Data\AIM_MRI\9-00480_9-00480_MR_2018-09-19_153208_Research^^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000\
+2020-02-20 14:50:27 ERROR     Folder Temp already exists for 9-00480_9-00480_MR_2018-09-19_153208_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:50:27 INFO     currently processing 9-00482_9-00482_MR_2018-05-02_180554_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:50:27 ERROR    2020-02-20 The folder name had an invalid character, changing name to:
+X:\RESEARCH\CATE_SHARE\CATE_Public\UM-Data\AIM_MRI\9-00482_9-00482_MR_2018-05-02_180554_Research^^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000\
+2020-02-20 14:50:27 ERROR     Folder Temp already exists for 9-00482_9-00482_MR_2018-05-02_180554_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:50:27 INFO     currently processing 9-00483_9-00483_MR_2018-04-26_073544_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:50:27 ERROR    2020-02-20 The folder name had an invalid character, changing name to:
+X:\RESEARCH\CATE_SHARE\CATE_Public\UM-Data\AIM_MRI\9-00483_9-00483_MR_2018-04-26_073544_Research^^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000\
+2020-02-20 14:50:27 ERROR     Folder Temp already exists for 9-00483_9-00483_MR_2018-04-26_073544_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:50:27 INFO     currently processing 9-00489_9-00489_MR_2018-08-15_115936_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:50:27 ERROR    2020-02-20 The folder name had an invalid character, changing name to:
+X:\RESEARCH\CATE_SHARE\CATE_Public\UM-Data\AIM_MRI\9-00489_9-00489_MR_2018-08-15_115936_Research^^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000\
+2020-02-20 14:50:28 ERROR     Folder Temp already exists for 9-00489_9-00489_MR_2018-08-15_115936_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:50:28 INFO     currently processing 9-00496_9-00496_MR_2018-08-14_120732_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:50:28 ERROR    2020-02-20 The folder name had an invalid character, changing name to:
+X:\RESEARCH\CATE_SHARE\CATE_Public\UM-Data\AIM_MRI\9-00496_9-00496_MR_2018-08-14_120732_Research^^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000\
+2020-02-20 14:50:28 ERROR     Folder Temp already exists for 9-00496_9-00496_MR_2018-08-14_120732_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:50:28 INFO     currently processing 9-00501_9-00501_MR_2018-09-05_160437_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:50:28 ERROR    2020-02-20 The folder name had an invalid character, changing name to:
+X:\RESEARCH\CATE_SHARE\CATE_Public\UM-Data\AIM_MRI\9-00501_9-00501_MR_2018-09-05_160437_Research^^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000\
+2020-02-20 14:50:28 ERROR     Folder Temp already exists for 9-00501_9-00501_MR_2018-09-05_160437_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:50:28 INFO     currently processing 9-00510_9-00510_MR_2018-10-17_120410_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:50:28 ERROR    2020-02-20 The folder name had an invalid character, changing name to:
+X:\RESEARCH\CATE_SHARE\CATE_Public\UM-Data\AIM_MRI\9-00510_9-00510_MR_2018-10-17_120410_Research^^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000\
+2020-02-20 14:50:28 ERROR     Folder Temp already exists for 9-00510_9-00510_MR_2018-10-17_120410_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:50:28 INFO     currently processing 9-00518_9-00518_MR_2018-10-25_095228_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:50:28 ERROR    2020-02-20 The folder name had an invalid character, changing name to:
+X:\RESEARCH\CATE_SHARE\CATE_Public\UM-Data\AIM_MRI\9-00518_9-00518_MR_2018-10-25_095228_Research^^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000\
+2020-02-20 14:50:28 ERROR     Folder Temp already exists for 9-00518_9-00518_MR_2018-10-25_095228_Research^DetectPAD.2015-01_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:50:28 INFO     currently processing 9-00531_9-00531_MR_2019-03-26_131725_Research^MR2015.01.DetectPAD_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:50:28 ERROR    2020-02-20 The folder name had an invalid character, changing name to:
+X:\RESEARCH\CATE_SHARE\CATE_Public\UM-Data\AIM_MRI\9-00531_9-00531_MR_2019-03-26_131725_Research^^MR2015.01.DetectPAD_t1.mprage.sag.p2.iso.1mm_n192__00000\
+2020-02-20 14:50:28 ERROR     Folder Temp already exists for 9-00531_9-00531_MR_2019-03-26_131725_Research^MR2015.01.DetectPAD_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:50:28 INFO     currently processing 9-00542_9-00542_MR_2019-08-05_105708_Research^MR2015.01.DetectPAD_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:50:28 ERROR    2020-02-20 The folder name had an invalid character, changing name to:
+X:\RESEARCH\CATE_SHARE\CATE_Public\UM-Data\AIM_MRI\9-00542_9-00542_MR_2019-08-05_105708_Research^^MR2015.01.DetectPAD_t1.mprage.sag.p2.iso.1mm_n192__00000\
+2020-02-20 14:50:28 ERROR     Folder Temp already exists for 9-00542_9-00542_MR_2019-08-05_105708_Research^MR2015.01.DetectPAD_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:50:28 INFO     currently processing 9-00569_9-00569_MR_2019-03-27_155611_Research^MR2015.01.DetectPAD_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:50:28 ERROR    2020-02-20 The folder name had an invalid character, changing name to:
+X:\RESEARCH\CATE_SHARE\CATE_Public\UM-Data\AIM_MRI\9-00569_9-00569_MR_2019-03-27_155611_Research^^MR2015.01.DetectPAD_t1.mprage.sag.p2.iso.1mm_n192__00000\
+2020-02-20 14:50:28 ERROR     Folder Temp already exists for 9-00569_9-00569_MR_2019-03-27_155611_Research^MR2015.01.DetectPAD_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:50:28 INFO     currently processing 9-00571_9-00571_MR_2019-02-12_132151_Research^MR2015.01.DetectPAD_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:50:28 ERROR    2020-02-20 The folder name had an invalid character, changing name to:
+X:\RESEARCH\CATE_SHARE\CATE_Public\UM-Data\AIM_MRI\9-00571_9-00571_MR_2019-02-12_132151_Research^^MR2015.01.DetectPAD_t1.mprage.sag.p2.iso.1mm_n192__00000\
+2020-02-20 14:50:28 ERROR     Folder Temp already exists for 9-00571_9-00571_MR_2019-02-12_132151_Research^MR2015.01.DetectPAD_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:50:28 INFO     currently processing 9-00601_9-00601_MR_2019-03-07_132817_Research^MR2015.01.DetectPAD_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:50:28 ERROR    2020-02-20 The folder name had an invalid character, changing name to:
+X:\RESEARCH\CATE_SHARE\CATE_Public\UM-Data\AIM_MRI\9-00601_9-00601_MR_2019-03-07_132817_Research^^MR2015.01.DetectPAD_t1.mprage.sag.p2.iso.1mm_n192__00000\
+2020-02-20 14:50:28 ERROR     Folder Temp already exists for 9-00601_9-00601_MR_2019-03-07_132817_Research^MR2015.01.DetectPAD_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:50:28 INFO     currently processing 9-00608_9-00608_MR_2019-04-25_134123_Research^MR2015.01.DetectPAD_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:50:28 ERROR    2020-02-20 The folder name had an invalid character, changing name to:
+X:\RESEARCH\CATE_SHARE\CATE_Public\UM-Data\AIM_MRI\9-00608_9-00608_MR_2019-04-25_134123_Research^^MR2015.01.DetectPAD_t1.mprage.sag.p2.iso.1mm_n192__00000\
+2020-02-20 14:50:28 ERROR     Folder Temp already exists for 9-00608_9-00608_MR_2019-04-25_134123_Research^MR2015.01.DetectPAD_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:50:28 INFO     currently processing 9-00631_9-00631_MR_2019-07-23_174544_Research^MR2015.01.DetectPAD_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:50:28 ERROR    2020-02-20 The folder name had an invalid character, changing name to:
+X:\RESEARCH\CATE_SHARE\CATE_Public\UM-Data\AIM_MRI\9-00631_9-00631_MR_2019-07-23_174544_Research^^MR2015.01.DetectPAD_t1.mprage.sag.p2.iso.1mm_n192__00000\
+2020-02-20 14:50:28 ERROR     Folder Temp already exists for 9-00631_9-00631_MR_2019-07-23_174544_Research^MR2015.01.DetectPAD_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:50:28 INFO     currently processing 9-00652_9-00652_MR_2019-08-27_132423_Research^MR2015.01.DetectPAD_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:50:28 ERROR    2020-02-20 The folder name had an invalid character, changing name to:
+X:\RESEARCH\CATE_SHARE\CATE_Public\UM-Data\AIM_MRI\9-00652_9-00652_MR_2019-08-27_132423_Research^^MR2015.01.DetectPAD_t1.mprage.sag.p2.iso.1mm_n192__00000\
+2020-02-20 14:50:28 ERROR     Folder Temp already exists for 9-00652_9-00652_MR_2019-08-27_132423_Research^MR2015.01.DetectPAD_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:50:28 INFO     currently processing 9-00669_9-00669_MR_2019-10-24_082338_Research^MR2019.03.AIM.Longitudenal.Study_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:50:28 ERROR    2020-02-20 The folder name had an invalid character, changing name to:
+X:\RESEARCH\CATE_SHARE\CATE_Public\UM-Data\AIM_MRI\9-00669_9-00669_MR_2019-10-24_082338_Research^^MR2019.03.AIM.Longitudenal.Study_t1.mprage.sag.p2.iso.1mm_n192__00000\
+2020-02-20 14:50:28 ERROR     Folder Temp already exists for 9-00669_9-00669_MR_2019-10-24_082338_Research^MR2019.03.AIM.Longitudenal.Study_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:50:28 INFO     currently processing 9-00678_9-00678_MR_2019-08-22_152336_Research^MR2015.01.DetectPAD_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:50:28 ERROR    2020-02-20 The folder name had an invalid character, changing name to:
+X:\RESEARCH\CATE_SHARE\CATE_Public\UM-Data\AIM_MRI\9-00678_9-00678_MR_2019-08-22_152336_Research^^MR2015.01.DetectPAD_t1.mprage.sag.p2.iso.1mm_n192__00000\
+2020-02-20 14:50:28 ERROR     Folder Temp already exists for 9-00678_9-00678_MR_2019-08-22_152336_Research^MR2015.01.DetectPAD_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:50:28 INFO     currently processing 9-00680_9-00680_MR_2019-09-13_151600_Research^MR2019.03.AIM.Longitudenal.Study_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:50:28 ERROR    2020-02-20 The folder name had an invalid character, changing name to:
+X:\RESEARCH\CATE_SHARE\CATE_Public\UM-Data\AIM_MRI\9-00680_9-00680_MR_2019-09-13_151600_Research^^MR2019.03.AIM.Longitudenal.Study_t1.mprage.sag.p2.iso.1mm_n192__00000\
+2020-02-20 14:50:28 ERROR     Folder Temp already exists for 9-00680_9-00680_MR_2019-09-13_151600_Research^MR2019.03.AIM.Longitudenal.Study_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:50:28 INFO     currently processing 9-00681_9-00681_MR_2019-09-13_162746_Research^MR2019.03.AIM.Longitudenal.Study_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:50:28 ERROR    2020-02-20 The folder name had an invalid character, changing name to:
+X:\RESEARCH\CATE_SHARE\CATE_Public\UM-Data\AIM_MRI\9-00681_9-00681_MR_2019-09-13_162746_Research^^MR2019.03.AIM.Longitudenal.Study_t1.mprage.sag.p2.iso.1mm_n192__00000\
+2020-02-20 14:50:28 ERROR     Folder Temp already exists for 9-00681_9-00681_MR_2019-09-13_162746_Research^MR2019.03.AIM.Longitudenal.Study_t1.mprage.sag.p2.iso.1mm_n192__00000
+2020-02-20 14:50:28 INFO     currently processing AIM-00502
+2020-02-20 14:50:29 ERROR     Folder Temp already exists for AIM-00502
+2020-02-20 14:50:29 INFO     currently processing AIM-00506
+2020-02-20 14:50:29 ERROR     Folder Temp already exists for AIM-00506
+2020-02-20 14:50:29 INFO     currently processing AIM-00507
+2020-02-20 14:50:30 ERROR     Folder Temp already exists for AIM-00507
+2020-02-20 14:50:30 INFO     currently processing AIM-00508
+2020-02-20 14:50:31 ERROR     Folder Temp already exists for AIM-00508
+2020-02-20 14:50:31 INFO     currently processing AIM-00509
