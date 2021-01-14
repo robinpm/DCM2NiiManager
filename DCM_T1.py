@@ -80,7 +80,7 @@ for fIn in pb( range(0, len(folderList))):
         #                 (workDir + dcmList[i]), (workDir+'temps\\'+dcmList[i]))
         os.mkdir('out1')
         fName = str(winPath)[-6:-1]
-        os.system(str(exeDir) + "\\dcm2niix.exe -f " + nSource + "-" nSeries + "-%i-%t" + nDate + ' -o ' + str(winPath) + '\\out1\\ ' + str(winPath) + "\\")
+        os.system(str(exeDir) + "\\dcm2niix.exe -f " + nSource + "-" + nSeries + "-%i-%t" + nDate + ' -o ' + str(winPath) + '\\out1\\ ' + str(winPath) + "\\")
         # shutil.rmtree('./temp/')
 
         logging.info(folderList[fIn] + " took " + str(round(time.perf_counter() - start, 2)) + " seconds to run")
