@@ -1,24 +1,37 @@
 # Pseudocode:
-# Make list of folders NOT DONE
-# take first folders
-# make list of files in folder WORKING
-# run pydicom to read header, check for modality 3d and other flags
+# Make list of folders done
+# take first folders done
+# make list of files in folder done
+# run dcm2niftii to read header, check for modality 3d and other flags
 # return correct file to array, process nifti(how)
 # repeat on next folder
 #
 # To improve: not scour every single file, find one and process
 #             other to check if attribute is present
+#             dcm2niftii has flag to run only one series, next big step ALERT ALERT
+# 
+# to think of: include blacklisted character to ease window processing i.e. " " "^"
+# Find case when it finds unexpected files or folders
+# check output folder to see if it outputed the right file as a way to doublecheck
+# 
 import os
 import shutil
 from pydicom import dcmread
 import time
-from datetime import date
+from datetime import datetime
 from tqdm import tqdm as pb
 import logging
 
+# Global Vars
+# source-series-rid_petdate_reg_rid_mridate-processingdate
+nSource = "MTS"
+nSeries = "110"
+nDate   = datetime.now().strftime("%D%M%Y%H%M%S")
+
 logging.basicConfig(format='%(asctime)s %(levelname)-8s %(message)s',filename='run.log',level=logging.DEBUG,datefmt='%Y-%m-%d %H:%M:%S')
 
-parentDir = "X:\\RESEARCH\\CATE_SHARE\\CATE_Public\\UM-Data\\AIM_MRI\\"
+parentDir = "C:\\Users\\RobinPM\\Desktop\\sandbox\\test\\"
+exeDir = "C:\\Users\\RobinPM\\Documents\\gits\\DICOM_Nii_T1\\execs\\"  # to be changed
 
 logging.info( "Parent Directory is:\n" + str(parentDir))
 os.chdir(parentDir)
@@ -29,14 +42,17 @@ for fIn in pb( range(0, len(folderList))):
 
         # Set up directory where DICOM folders are
     workDir = parentDir + folderList[fIn] + '\\' # to be changed
-    exeDir = "C:\\Users\\RobinPM\\Documents\\gits\\DICOM_Nii_T1\\execs\\"  # to be changed
     logging.info( "currently processing " +  str(folderList[fIn]))
 
     winPath = workDir
 
-    if ('^' in workDir):
-        winPath = winPath.replace('^', '^^')
+    if (' ' in workDir):
+        winPath = winPath.replace(' ', '_')
         logging.error('The folder name had an invalid character, changing name to:\n' + winPath)
+
+    #if ('^' in workDir):
+    #    winPath = winPath.replace('^', '^^')
+    #   logging.error('The folder name had an invalid character, changing name to:\n' + winPath)
 
     os.chdir(workDir)  # Points to user directory
 
@@ -45,24 +61,24 @@ for fIn in pb( range(0, len(folderList))):
     start = time.perf_counter()
     t1Arr = []  # Create Array of found T1s
     tempDir = (workDir + 'temps\\')
-    if (os.path.isfile(tempDir)):
-        os.mkdir(tempDir)
-        for i in pb( range(0, len(dcmList))):
-            # print(dcmList[i])
-            fPath = (workDir + dcmList[i])  # Get Full Path for dicom
+    if (not os.path.exists(tempDir)):
+        # os.mkdir(tempDir)
+        # for i in pb( range(0, len(dcmList))):
+        #     # print(dcmList[i])
+        #     fPath = (workDir + dcmList[i])  # Get Full Path for dicom
 
-            if(('.dcm' in fPath) or not ('.' in fPath)):
-                currentHead = dcmread(fPath)  # Get header from dicom
-                # print(currentHead)
-                # testo = (str(currentHead).find("MR Acquisition Type")) # Check to find label in header'
-                if (hasattr(currentHead, 'MRAcquisitionType')) and (currentHead.Modality == 'MR') and (currentHead.MRAcquisitionType == '3D') and ((str.upper(currentHead.SeriesDescription)).find('T1') > -1):
-                    # print( dcmList[i])
-                    t1Arr.append(dcmList[i])
-                    shutil.copyfile(
-                        (workDir + dcmList[i]), (workDir+'temps\\'+dcmList[i]))
+        #     if(('.dcm' in fPath) or not ('.' in fPath)):
+        #         currentHead = dcmread(fPath)  # Get header from dicom
+        #         # print(currentHead)
+        #         # testo = (str(currentHead).find("MR Acquisition Type")) # Check to find label in header'
+        #         if (hasattr(currentHead, 'MRAcquisitionType')) and (currentHead.Modality == 'MR') and (currentHead.MRAcquisitionType == '3D') and ((str.upper(currentHead.SeriesDescription)).find('T1') > -1):
+        #             # print( dcmList[i])
+        #             t1Arr.append(dcmList[i])
+        #             shutil.copyfile(
+        #                 (workDir + dcmList[i]), (workDir+'temps\\'+dcmList[i]))
         os.mkdir('out1')
-        os.system(exeDir + 'dcm2niix.exe -o ' + winPath +
-                'out1\\ ' + winPath + 'temps\\')
+        fName = winPath[-6:-1]
+        os.system(exeDir + "dcm2niix.exe -f " + nSource + nSeries + "-%i-%t" + nDate + ' -o ' + winPath + 'out1\\ ' + winPath)
         # shutil.rmtree('./temp/')
 
         logging.info(folderList[fIn] + " took " + str(round(time.perf_counter() - start, 2)) + " seconds to run")
@@ -70,6 +86,7 @@ for fIn in pb( range(0, len(folderList))):
         # os.system(exeDir + 'dcm2niix.exe -o ' + winPath + 'out2\\ ' + winPath)
     else:
         logging.error( "Folder Temp already exists for " + str(folderList[fIn]))
+
 
 
 
