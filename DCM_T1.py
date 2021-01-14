@@ -15,12 +15,14 @@
 # check output folder to see if it outputed the right file as a way to doublecheck
 # 
 import os
+import sys
 import shutil
 from pydicom import dcmread
 import time
 from datetime import datetime
 from tqdm import tqdm as pb
 import logging
+from pathlib import Path
 
 # Global Vars
 # source-series-rid_petdate_reg_rid_mridate-processingdate
@@ -29,26 +31,26 @@ nSeries = "110"
 nDate   = datetime.now().strftime("%D%M%Y%H%M%S")
 
 logging.basicConfig(format='%(asctime)s %(levelname)-8s %(message)s',filename='run.log',level=logging.DEBUG,datefmt='%Y-%m-%d %H:%M:%S')
-
-parentDir = "C:\\Users\\RobinPM\\Desktop\\sandbox\\test\\"
-exeDir = "C:\\Users\\RobinPM\\Documents\\gits\\DICOM_Nii_T1\\execs\\"  # to be changed
+print(os.path.dirname(os.path.realpath(sys.path[0])))
+parentDir = Path("X:/RESEARCH/CATE_SHARE/CATE_Public/NWSI-Site_Data/MtSinai-Data/PET/batch1/DCM-test")
+exeDir = Path("C:/Users/RobinPM/Documents/gits/DICOM_Nii_T1/execs")
 
 logging.info( "Parent Directory is:\n" + str(parentDir))
 os.chdir(parentDir)
 folderList = os.listdir()  # Makes list of files wi
-logging.info(str(date.fromtimestamp(time.time()))+ " List of Files Found:\n" + str(folderList))
+logging.info(str(datetime.fromtimestamp(time.time()))+ " List of Files Found:\n" + str(folderList))
 
 for fIn in pb( range(0, len(folderList))):
 
         # Set up directory where DICOM folders are
-    workDir = parentDir + folderList[fIn] + '\\' # to be changed
+    workDir = Path.joinpath(parentDir, folderList[fIn]) # to be changed
     logging.info( "currently processing " +  str(folderList[fIn]))
 
     winPath = workDir
 
-    if (' ' in workDir):
-        winPath = winPath.replace(' ', '_')
-        logging.error('The folder name had an invalid character, changing name to:\n' + winPath)
+    # if (' ' in workDir):
+    #     winPath = winPath.replace(' ', '_')
+    #     logging.error('The folder name had an invalid character, changing name to:\n' + winPath)
 
     #if ('^' in workDir):
     #    winPath = winPath.replace('^', '^^')
@@ -60,7 +62,7 @@ for fIn in pb( range(0, len(folderList))):
 
     start = time.perf_counter()
     t1Arr = []  # Create Array of found T1s
-    tempDir = (workDir + 'temps\\')
+    tempDir = Path.joinpath(workDir, 'temps/')
     if (not os.path.exists(tempDir)):
         # os.mkdir(tempDir)
         # for i in pb( range(0, len(dcmList))):
@@ -77,8 +79,8 @@ for fIn in pb( range(0, len(folderList))):
         #             shutil.copyfile(
         #                 (workDir + dcmList[i]), (workDir+'temps\\'+dcmList[i]))
         os.mkdir('out1')
-        fName = winPath[-6:-1]
-        os.system(exeDir + "dcm2niix.exe -f " + nSource + nSeries + "-%i-%t" + nDate + ' -o ' + winPath + 'out1\\ ' + winPath)
+        fName = str(winPath)[-6:-1]
+        os.system(str(exeDir) + "\\dcm2niix.exe -f " + nSource + "-" nSeries + "-%i-%t" + nDate + ' -o ' + str(winPath) + '\\out1\\ ' + str(winPath) + "\\")
         # shutil.rmtree('./temp/')
 
         logging.info(folderList[fIn] + " took " + str(round(time.perf_counter() - start, 2)) + " seconds to run")
