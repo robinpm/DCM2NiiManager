@@ -14,6 +14,11 @@
 # Find case when it finds unexpected files or folders
 # check output folder to see if it outputed the right file as a way to doublecheck
 # 
+
+from tkinter import *
+from tkinter import filedialog as fd 
+import tkinter as tk
+from tkinter.ttk import *
 import os
 import sys
 import shutil
@@ -32,7 +37,29 @@ nDate   = datetime.now().strftime("%D%M%Y%H%M%S")
 
 logging.basicConfig(format='%(asctime)s %(levelname)-8s %(message)s',filename='run.log',level=logging.DEBUG,datefmt='%Y-%m-%d %H:%M:%S')
 print(os.path.dirname(os.path.realpath(sys.path[0])))
-parentDir = Path("X:/RESEARCH/CATE_SHARE/CATE_Public/NWSI-Site_Data/MtSinai-Data/PET/batch1/DCM-test")
+
+# GUI WINDOW
+def callback():
+    global name
+    name = fd.askdirectory() 
+
+root = Tk()
+progress = Progressbar(root,orient=HORIZONTAL,length=100, mode= 'indeterminate')
+
+errmsg = 'Error!'
+tk.Button(text='Select Import Directory', command=callback).pack(pady=20)
+tk.Button(text='Apply',command=root.destroy).pack(pady=20)
+root.mainloop()
+
+try: name
+except NameError:
+    print("No directory indicated\nQuitting...")
+else:
+    print("Director is:" + name)
+    
+
+
+parentDir = Path(name)
 exeDir = Path("C:/Users/RobinPM/Documents/gits/DICOM_Nii_T1/execs")
 
 logging.info( "Parent Directory is:\n" + str(parentDir))
