@@ -33,7 +33,7 @@ from pathlib import Path
 # source-series-rid_petdate_reg_rid_mridate-processingdate
 nSource = "MTS"
 nSeries = "110"
-nDate   = datetime.now().strftime("%D%M%Y%H%M%S")
+
 
 logging.basicConfig(format='%(asctime)s %(levelname)-8s %(message)s',filename='run.log',level=logging.DEBUG,datefmt='%Y-%m-%d %H:%M:%S')
 print(os.path.dirname(os.path.realpath(sys.path[0])))
@@ -105,9 +105,11 @@ for fIn in pb( range(0, len(folderList))):
         #             t1Arr.append(dcmList[i])
         #             shutil.copyfile(
         #                 (workDir + dcmList[i]), (workDir+'temps\\'+dcmList[i]))
-        os.mkdir('out1')
+
+        os.mkdir('Niftii')
         fName = str(winPath)[-6:-1]
-        os.system(str(exeDir) + "\\dcm2niix.exe -f " + nSource + "-" + nSeries + "-%i-%t" + nDate + ' -o ' + str(winPath) + '\\out1\\ ' + str(winPath) + "\\")
+        nDate   = (datetime.now()).strftime("%Y%m%d%H%M%S")
+        os.system(str(exeDir) + "\\dcm2niix.exe -f " + nSource + "-" + nSeries + "-%i-%t-" +str(nDate) + ' -o ' + str(winPath) + '\\Niftii\\ ' + str(winPath) + "\\")
         # shutil.rmtree('./temp/')
 
         logging.info(folderList[fIn] + " took " + str(round(time.perf_counter() - start, 2)) + " seconds to run")
