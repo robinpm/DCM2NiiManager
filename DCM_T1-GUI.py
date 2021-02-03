@@ -31,8 +31,8 @@ from pathlib import Path
 
 # Global Vars
 # source-series-rid_petdate_reg_rid_mridate-processingdate
-nSource = "MTS"
-nSeries = "110"
+global nSource
+global nSeries
 
 
 logging.basicConfig(format='%(asctime)s %(levelname)-8s %(message)s',filename='run.log',level=logging.DEBUG,datefmt='%Y-%m-%d %H:%M:%S')
@@ -43,13 +43,36 @@ def callback():
     global name
     name = fd.askdirectory() 
 
+#Creating GUI Window
 root = Tk()
-progress = Progressbar(root,orient=HORIZONTAL,length=100, mode= 'indeterminate')
+def applyVar():
+    global source_name
+    global series_name 
+    source_name = soName.get()
+    series_name = seName.get()
+    root.destroy
+#progress = Progressbar(root,orient=HORIZONTAL,length=100, mode= 'indeterminate')
 
-errmsg = 'Error!'
+
+root.geometry("400x300")
+Label(root, text="Enter Source Name").pack()
+soName = Entry(root)
+soName.pack()
+
+Label(root, text="Enter Series Name").pack()
+seName = Entry(root)
+seName.pack()
+
 tk.Button(text='Select Import Directory', command=callback).pack(pady=20)
-tk.Button(text='Apply',command=root.destroy).pack(pady=20)
+tk.Button(text='Apply', command=applyVar).pack(pady=20)
+
 root.mainloop()
+# End Window GUI
+nSeries = series_name
+nSource = source_name
+
+# series_name = sName.get()
+print("series Selected: " + series_name)
 
 try: name
 except NameError:
@@ -79,9 +102,9 @@ for fIn in pb( range(0, len(folderList))):
     #     winPath = winPath.replace(' ', '_')
     #     logging.error('The folder name had an invalid character, changing name to:\n' + winPath)
 
-    #if ('^' in workDir):
-    #    winPath = winPath.replace('^', '^^')
-    #   logging.error('The folder name had an invalid character, changing name to:\n' + winPath)
+    if ('^' in str(workDir)):
+       winPath = str(winPath).replace('^', '^^')
+       logging.error('The folder name had an invalid character, changing name to:\n' + winPath)
 
     os.chdir(workDir)  # Points to user directory
 
@@ -91,25 +114,25 @@ for fIn in pb( range(0, len(folderList))):
     t1Arr = []  # Create Array of found T1s
     tempDir = Path.joinpath(workDir, 'temps/')
     if (not os.path.exists(tempDir)):
-        # os.mkdir(tempDir)
-        # for i in pb( range(0, len(dcmList))):
-        #     # print(dcmList[i])
-        #     fPath = (workDir + dcmList[i])  # Get Full Path for dicom
+    #     os.mkdir(tempDir)
+    #     for i in pb( range(0, len(dcmList))):
+    #         # print(dcmList[i])
+    #         fPath = Path.joinpath(workDir , dcmList[i])  # Get Full Path for dicom
 
-        #     if(('.dcm' in fPath) or not ('.' in fPath)):
-        #         currentHead = dcmread(fPath)  # Get header from dicom
-        #         # print(currentHead)
-        #         # testo = (str(currentHead).find("MR Acquisition Type")) # Check to find label in header'
-        #         if (hasattr(currentHead, 'MRAcquisitionType')) and (currentHead.Modality == 'MR') and (currentHead.MRAcquisitionType == '3D') and ((str.upper(currentHead.SeriesDescription)).find('T1') > -1):
-        #             # print( dcmList[i])
-        #             t1Arr.append(dcmList[i])
-        #             shutil.copyfile(
-        #                 (workDir + dcmList[i]), (workDir+'temps\\'+dcmList[i]))
+    #         if(('.dcm' in str(fPath)) or not ('.' in str(fPath))):
+    #             currentHead = dcmread(str(fPath))  # Get header from dicom
+    #             # print(currentHead)
+    #             # testo = (str(currentHead).find("MR Acquisition Type")) # Check to find label in header'
+    #             if (currentHead.Modality == 'PT'): #(hasattr(currentHead, 'MRAcquisitionType')) and (currentHead.Modality == 'PT') and (currentHead.MRAcquisitionType == '3D') and ((str.upper(currentHead.SeriesDescription)).find('T1') > -1):
+    #                 # print( dcmList[i])
+    #                 t1Arr.append(dcmList[i])
+    #                 print((str(workDir) + dcmList[i]))
+    #                 shutil.copyfile((str(workDir) + "/" + dcmList[i]), (str(workDir)+'/temps/'+dcmList[i]))
 
         os.mkdir('Niftii')
         fName = str(winPath)[-6:-1]
         nDate   = (datetime.now()).strftime("%Y%m%d%H%M%S")
-        os.system(str(exeDir) + "\\dcm2niix.exe -f " + nSource + "-" + nSeries + "-%i-%t-" +str(nDate) + ' -o ' + str(winPath) + '\\Niftii\\ ' + str(winPath) + "\\")
+        os.system(str(exeDir) + "\\dcm2niix.exe -f " + nSource + "-" + nSeries + "-%i-%t-" +str(nDate) + ' -o ' + str(winPath) + '\\Niftii\\ ' + str(winPath) )#+ "/temps")
         # shutil.rmtree('./temp/')
 
         logging.info(folderList[fIn] + " took " + str(round(time.perf_counter() - start, 2)) + " seconds to run")
